@@ -79,7 +79,7 @@
 
 
 <!-- video area start -->
-<div class="tp-video-area  mt-120 fix">
+<div class="tp-video-area mt-120 mb-200 fix">
     <div class="container-fluid p-0">
         <div class="tp-video-thumb-wrap">
             <div class="tp-video-thumb d-none d-xl-block">
@@ -108,6 +108,221 @@
 <!-- video area end -->
 
 
+<!-- project area start -->
+<div class="studio-project-area studio-project-ptb pb-60 mt-120">
+    <div class="container container-1830">
+        <div class="studio-project-top-wrap mb-70">
+            <div class="row">
+                <div class="col-xxl-8 col-xl-10">
+                    <div class="studio-project-title-wrap">
+                        <div class="studio-project-title-box pl-40">
+                            <h3 class="tp-section-title-clash mb-0 tp-text-revel-anim">OUR <br> COLLECTIONS
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="studio-project-wrap">
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>01</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">Brass Hinges</a>
+                                </h4>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div >
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-2.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>02</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">BRASS TOWER BOLT</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div>
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-3.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>03</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">BRASS FITTINGS</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div>
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-4.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>04</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">BRASS GLASS FITTINGS</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div>
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>04</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">HANDLE & LOCKS</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div>
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-number">
+                                <span>04</span>
+                                <i>
+                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
+                                            stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </i>
+                            </div>
+                            <div class="studio-project-content">
+                                <h4 class="studio-project-title-sm"><a
+                                        href="product.php">BATH FITTING</a>
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-8">
+                        <div>
+                            <a class="cursor-hide" href="product.php">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- project area end -->
+
+
 
 <!-- product about area start -->
 <div class="tp-shop-about-area tp-shop-about-ptb pt-100 pb-100">
@@ -130,12 +345,11 @@
                     </div> -->
                     <div class="tp-shop-about-content text-center">
                         <p>
-                            Furniture inspired by our <br> land & resources, clear
-                            lines that reflect a patient & mastered <br> gesture.
+                            Crafting durable brass hardware trusted by architects, builders, and global brands.
                         </p>
                         <div class="tp-shop-about-btn tp_fade_anim" data-delay=".3" data-fade-from="top"
                             data-ease="bounce">
-                            <a class="tp-checkout-btn border-style" href="about-us-dark.html">
+                            <a class="tp-checkout-btn border-style" href="about.php">
                                 More About Us
                                 <span>
                                     <svg width="21" height="10" viewBox="0 0 21 10" fill="none"
@@ -174,90 +388,6 @@
 <!-- product about area end -->
 
 
-<!-- project area start -->
-<!-- <div class="design-project-area design-project-2-style pt-200 pb-60 title-box">
-    <div class="container container-1680">
-        <div class="design-project-title-wrap mb-140">
-            <div class="row align-items-end">
-                <div class="col-xl-9 col-lg-9 col-md-9">
-                    <div class="design-project-title-box">
-                        <h4 class="tp-section-title-dirtyline">
-                            <span class="tp-text-right-scroll tp_text_invert_2">recent</span> <br>
-                            <span class="tp_text_invert_2">work</span>
-                        </h4>
-                        <p>
-                            In the creative wilderness,
-                            our work becomes the beacon
-                            clients grow to love.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-3">
-                    <div class="design-project-btn text-start text-md-end">
-                        <a class="tp-btn-sky-border" href="portfolio-metro.html">Explore work</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="design-project-item-wrap">
-            <div class="design-project-item mb-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-5 order-xl-0 order-1">
-                        <div class="design-project-content">
-                            <h4 class="design-project-title tp_reveal_anim"><a
-                                    href="portfolio-details-modern.html">automap</a></h4>
-                            <span class="tp_reveal_anim">Research, UX, UI Design</span>
-                            <a class="tp-btn-sky-border height-50" href="portfolio-details-modern.html">View project</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-7 order-xl-1 order-0">
-                        <div class="design-project-thumb item-1 text-end">
-                            <img src="assets/img/home-05/project/project-1.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="design-project-item mb-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-7">
-                        <div class="design-project-thumb item-2">
-                            <img src="assets/img/home-05/project/project-2.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-xl-5">
-                        <div class="design-project-content pl-200">
-                            <h4 class="design-project-title tp_reveal_anim"><a
-                                    href="portfolio-details-modern.html">kashtech <br> doyel</a></h4>
-                            <span class="tp_reveal_anim">Research, UX, UI Design</span>
-                            <a class="tp-btn-sky-border height-50" href="portfolio-details-modern.html">View project</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="design-project-item mb-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-5 order-xl-0 order-1">
-                        <div class="design-project-content">
-                            <h4 class="design-project-title tp_reveal_anim"><a
-                                    href="portfolio-details-modern.html">rebrand</a></h4>
-                            <span class="tp_reveal_anim">Research, UX, UI Design</span>
-                            <a class="tp-btn-sky-border height-50" href="portfolio-details-modern.html">View project</a>
-                        </div>
-                    </div>
-                    <div class="col-xl-7 order-xl-1 order-0">
-                        <div class="design-project-thumb item-1 text-end">
-                            <img src="assets/img/home-05/project/project-3.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- project area end -->
-
-
-
 <!-- tp-counter-area-start -->
 <div class="about-features tp-counter-area tp-counter-top-meinus  z-index-1">
     <div class="container container-1230 pt-110 pb-110">
@@ -265,22 +395,22 @@
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-start">
                     <div class="tp-counter-item text-center mb-40">
-                        <h2 class="tp-counter-title mb-0">01</h2>
-                        <h6 class="tp-counter-subtitle">Pre-built 52+<br> Amazing homepages</h6>
+                        <h2 class="tp-counter-title mb-0">28+</h2>
+                        <h6 class="tp-counter-subtitle">Years Experience</h6>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-item text-center mb-40">
-                    <h2 class="tp-counter-title mb-0">02</h2>
-                    <h6 class="tp-counter-subtitle">1000+ Unique <br> sections</h6>
+                    <h2 class="tp-counter-title mb-0">500+</h2>
+                    <h6 class="tp-counter-subtitle">Product Variants</h6>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-end">
                     <div class="tp-counter-item text-center mb-40">
-                        <h2 class="tp-counter-title mb-0">03</h2>
-                        <h6 class="tp-counter-subtitle">Blog, portfolio &<br> shop pages included</h6>
+                        <h2 class="tp-counter-title mb-0">50+</h2>
+                        <h6 class="tp-counter-subtitle">Countries Served</h6>
                     </div>
                 </div>
             </div>
@@ -289,6 +419,98 @@
 
 </div>
 <!-- tp-counter-area-end -->
+
+   <div class="tp-pd-5-hero-black-anim p-relative fix" data-bg-color="#ffffff">
+                    <div class="tp-pd-5-hero-black-overlay"></div>
+                    <!-- portfolio details app hero -->
+                    <div class="tp-pd-5-hero-ptb pt-200 pb-200 z-index-2">
+                        <div class="container container-1230">
+                            <div class="tp-pd-5-hero-top pb-120">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-8">
+                                        <div class="tp-pd-5-hero-heading text-center tp_fade_anim" data-delay=".3">
+                                            <h3 class="tp-pd-5-hero-title">Premium Door Handles</h3>
+                                            <p>
+                                               Crafted with precision and designed for elegance, our premium door handles combine durability, functionality, and timeless aesthetics for modern architectural spaces.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="row justify-content-center">
+                                <div class="col-lg-10">
+                                    <div class="tp-pd-5-hero-thumb text-center tp_fade_anim" data-delay=".7" data-fade-from="top" data-ease="bounce">
+                                        <img data-speed=".9" src="assets/assets-temp/freepik_img1-img3-img2-these-thre_2858336514.png" width="60%" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- portfolio details app hero -->
+
+                    <!-- portfolio details info start -->
+                    <div class="tp-pd-5-hero-info-ptb pb-40 z-index-2">
+                        <div class="container container-1230">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-9">
+                                    <div class="tp-pd-5-hero-info-wrap">
+                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".3">
+                                            <div class="row">
+                                                <div class="col-lg-4">
+                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                                        <h3 class="tp-pd-5-hero-info-item-title"><span>01</span>Craftsmanship</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-8">
+                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                                        <p>Every handle is meticulously manufactured using premium materials and advanced engineering for superior quality and performance.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".5">
+                                            <div class="row">
+                                                <div class="col-lg-4">
+                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                                        <h3 class="tp-pd-5-hero-info-item-title"><span>02</span>Design Excellence</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-8">
+                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                                        <p>
+                                                            A perfect balance of form and function, designed to complement contemporary, residential, and commercial interiors.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".7">
+                                            <div class="row">
+                                                <div class="col-lg-4">
+                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                                        <h3 class="tp-pd-5-hero-info-item-title">
+                                                            <span>03</span>Lasting Performance
+                                                        </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-8">
+                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                                        <p>
+                                                           Built to withstand daily use while maintaining flawless operation, durability, and finish for years to come.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- portfolio details info end -->
+                </div>
+
 
 <!-- tp-responsive-area-start -->
 <div class="tp-responsive-area  section-meinus">
@@ -340,8 +562,7 @@
                     <div class="ar-about-title-box">
 
                         <h3 class="tp-section-title-clash-600 fs-60 fw-400 mb-0 pb-40 tp_fade_anim" data-delay=".4">
-                            Through a unique combination of engineering,
-                            construction and design disciplines & expertise.
+                            EXPLORE OUR EXTENSIVE RANGE OF ARCHITECTURAL HARDWARE SOLUTIONS.
                         </h3>
                     </div>
                 </div>
@@ -362,23 +583,16 @@
             <div class="col-xl-4 col-lg-4 col-md-10 order-1 order-lg-0">
                 <div class="ar-about-content">
                     <h3 class="ar-about-title-sm tp_fade_anim" data-delay=".3">
-                        Urban design do
-                        together the many
-                        strands of place-making,
-                        but the majority have
-                        suffered.
+                       Browse products crafted for durability, precision, and timeless design.
                     </h3>
                     <div class="tp_fade_anim" data-delay=".4">
                         <p>
-                            One began as a collaborative
-                            architectural & landscape workshop,
-                            and has remained true to its trans
-                            disciplinary
+                            Discover our complete collection of premium brass hardware, including hinges, tower bolts, handles, locks, glass fittings, and bath accessories. Designed to meet the needs of architects, builders, distributors, and modern spaces.
                         </p>
                     </div>
                     <div class="tp-shop-about-btn tp_fade_anim" data-delay=".3" data-fade-from="top" data-ease="bounce">
                         <a class="tp-checkout-btn border-style" href="about-us-dark.html">
-                            More About Us
+                            View Catalogue
                             <span>
                                 <svg width="21" height="10" viewBox="0 0 21 10" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -394,8 +608,8 @@
             <div class="col-xl-3 col-lg-3 col-md-5 order-0 order-lg-0">
                 <div data-speed="1.1" class="ar-about-exp-wrap d-flex justify-content-xxl-start justify-content-end">
                     <div class="ar-about-exp-box" data-background="assets/img/home-08/hero/hero-bg-shape-2.png">
-                        <span>Years of <br> Experience</span>
-                        <h4>17</h4>
+                        <span>PRODUCT COLLECTIONS</span>
+                        <h4>500+</h4>
                     </div>
                 </div>
             </div>

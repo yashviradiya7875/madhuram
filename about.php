@@ -1,5 +1,15 @@
 <?php include 'header.php'; ?>
 
+<!-- banner area start -->
+<div class="ar-banner-area">
+    <div class="ar-banner-wrap ar-about-us-4">
+        <img class="w-100" src="assets/img/about-us/about-us-4/about-us-4-thumb-1.jpg" alt="" data-speed=".8">
+    </div>
+</div>
+<!-- banner area end -->
+
+
+
 <!-- hero area start -->
 <div class="ar-hero-area p-relative include-bg">
     <div class="ar-about-us-4-shape">
@@ -10,8 +20,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-12">
                     <div class="ar-hero-title-box tp_fade_anim" data-delay=".3">
-                        <h3 class="ar-about-us-4-title">Fueling Minds <br>
-                            Inspiring Designs..</h3>
+                        <h3 class="ar-about-us-4-title">Crafting <br> Excellence Since 1995.</h3>
                         <div class="ar-about-us-4-title-box d-flex justify-content-end">
                             <span class="tp-section-subtitle pre">About Us</span>
                             <div class="ar-about-us-4-icon">
@@ -22,9 +31,9 @@
                                         stroke-linejoin="round" />
                                 </svg>
                             </div>
-                            <p>An independent web design and branding agency <br>
-                                in Manchester set up in 2012 who care, build relationships, <br> have industry
-                                experience, and win awards.</p>
+                            <p>Three decades of expertise in crafting <br> premium brass architectural hardware <br> for
+                                modern
+                                and elegant spaces.</p>
                         </div>
                     </div>
                 </div>
@@ -34,16 +43,9 @@
 </div>
 <!-- hero area end -->
 
-<!-- banner area start -->
-<div class="ar-banner-area">
-    <div class="ar-banner-wrap ar-about-us-4">
-        <img class="w-100" src="assets/img/about-us/about-us-4/about-us-4-thumb-1.jpg" alt="" data-speed=".8">
-    </div>
-</div>
-<!-- banner area end -->
 
 <!-- about area start -->
-<div class="tp-about-area pt-140 pb-140 tp-bounce-trigger" data-bg-color="#F6F6F9">
+<div class="tp-about-area pb-140 tp-bounce-trigger">
     <div class="container">
         <div class="tp-about-box p-relative">
             <div class="tp-about-shape-1 tp-bounce d-none d-md-block">
@@ -59,8 +61,9 @@
                     <div class="tp-about-wrap">
                         <div class="tp-about-text tp_fade_anim">
                             <p>
-                                An independent web design and branding agency in Manchester set up in 2010 who care,
-                                build relationships, have industry experience, and win awards.
+                                From a manufacturing facility in Jamnagar, Gujarat, we have spent three decades
+                                delivering architectural hardware solutions defined by quality, innovation, and
+                                reliability.
                             </p>
                         </div>
                         <div class="row">
@@ -72,11 +75,17 @@
                             <div class="col-xl-7 col-lg-8 col-md-7">
                                 <div class="tp-about-funcact-wrap">
                                     <div class="tp-about-avater-info">
-                                        <!-- <img class="tp_fade_anim" data-delay=".3" data-fade-from="right"
-                                            src="assets/img/home-01/about/about-avater.png" alt=""> -->
                                         <div class="tp_text_anim">
-                                            <p>Driven by a passion for innovation, we specialize in <br> delivering
-                                                top-quality design solutions</p>
+                                            <p>Located in the brass capital of India, Madhuram Overseas specializes in
+                                                the production of hinges, tower bolts, handles, locks, glass fittings,
+                                                and bath accessories. Our commitment to precision engineering and
+                                                superior finishing has helped us build long-term relationships with
+                                                architects, builders, distributors, and global partners.</p> <br>
+                                            <p>Every product we create reflects our dedication to craftsmanship,
+                                                consistency, and customer satisfaction.</p> <br>
+                                            <p>Driven by excellence and continuous innovation, we manufacture hardware
+                                                solutions that combine functionality, durability, and timeless design.
+                                            </p>
                                         </div>
                                     </div>
                                     <div class="row">
@@ -84,14 +93,14 @@
                                             <div class="tp-about-funcact-item tp_fade_anim mb-30" data-delay=".3">
                                                 <span><i data-purecounter-duration="1" data-purecounter-end="98"
                                                         class="purecounter">0</i>%</span>
-                                                <p>Clients Satisfied and <br> Repeating</p>
+                                                <p>Client Satisfaction</p>
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-sm-6">
                                             <div class="tp-about-funcact-item tp_fade_anim mb-30" data-delay=".5">
-                                                <span><i data-purecounter-duration="1" data-purecounter-end="125"
+                                                <span><i data-purecounter-duration="1" data-purecounter-end="15"
                                                         class="purecounter">0</i>+</span>
-                                                <p>Projects Completed in <br> 24 Countries</p>
+                                                <p>Countries Served</p>
                                             </div>
                                         </div>
                                     </div>
@@ -114,8 +123,8 @@
                 <div class="ar-step-title-box">
                     <!-- <span class="tp-section-subtitle-satisfy text-white mb-20 tp_fade_anim" data-delay=".3">Architecture
                         process</span> -->
-                    <h3 class="tp-section-title-clash-600 text-white mb-0 tp_fade_anim" data-delay=".4">The project
-                        process.</h3>
+                    <h3 class="tp-section-title-clash-600 text-white mb-0 tp_fade_anim" data-delay=".4">BUILT ON
+                        EXPERIENCE.</h3>
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-7">
@@ -136,8 +145,9 @@
                                     <span class="ar-step-number">01</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">Project Analysis</h4>
-                                    <span>Stand out with a polished, professional look.</span>
+                                    <h4 class="ar-step-title-sm">30+ YEARS OF EXCELLENCE</h4>
+                                    <span>Delivering premium architectural hardware solutions since 1995 with a
+                                        commitment to quality and innovation.</span>
                                 </div>
                             </div>
                         </div>
@@ -164,8 +174,9 @@
                                     <span class="ar-step-number">02</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">Functional Spaces</h4>
-                                    <span>Stand out with a polished, professional look.</span>
+                                    <h4 class="ar-step-title-sm">PRECISION MANUFACTURING</h4>
+                                    <span>Advanced production processes ensure consistency, durability, and flawless
+                                        finishing across every product.</span>
                                 </div>
                             </div>
                         </div>
@@ -186,8 +197,9 @@
                                     <span class="ar-step-number">03</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">Residence Condom</h4>
-                                    <span>Stand out with a polished, professional look.</span>
+                                    <h4 class="ar-step-title-sm">GLOBAL REACH</h4>
+                                    <span>Trusted by distributors, builders, and partners across domestic and
+                                        international markets.</span>
                                 </div>
                             </div>
                         </div>
@@ -207,8 +219,9 @@
                                     <span class="ar-step-number">04</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">Consultation</h4>
-                                    <span>Stand out with a polished, professional look.</span>
+                                    <h4 class="ar-step-title-sm">QUALITY ASSURANCE</h4>
+                                    <span>Every product undergoes rigorous inspection to meet the highest standards of
+                                        performance and reliability.</span>
                                 </div>
                             </div>
                         </div>
@@ -232,12 +245,12 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 ml-40">
-                            <span class="tp-pd-3-subtitle">Digital platform</span>
-                            <h4 class="tp-pd-3-title">The Challenge</h4>
+                            <span class="tp-section-subtitle pre mb-20">Precision In Every Detail</span>
+                            <h4 class="tp-pd-3-title">QUALITY</h4>
                             <div class="tp-pd-3-overview-text">
-                                <p> ElectroHub, a prominent retailer in the electronics <br>
-                                    market, needed a refreshed visual identity to stand <br>
-                                    out among competitors .
+                                <p> At Madhuram Overseas, quality is more than a standard—it is the foundation of every
+                                    product we manufacture. From raw material selection to final inspection, every stage
+                                    is carefully monitored to ensure durability, precision, and flawless performance.
                                 </p>
                             </div>
                         </div>
@@ -250,12 +263,12 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 mr-40">
-                            <span class="tp-pd-3-subtitle">Digital platform</span>
-                            <h4 class="tp-pd-3-title">The Solution</h4>
+                            <span class="tp-section-subtitle pre mb-20">Driving The Future Of Hardware</span>
+                            <h4 class="tp-pd-3-title">INNOVATION</h4>
                             <div class="tp-pd-3-overview-text">
-                                <p> ElectroHub, a prominent retailer in the electronics <br>
-                                    market, needed a refreshed visual identity to stand <br>
-                                    out among competitors .
+                                <p>Combining decades of expertise with modern manufacturing techniques, we continuously
+                                    innovate to create hardware solutions that meet evolving architectural and design
+                                    requirements while maintaining exceptional functionality and aesthetics.
                                 </p>
                             </div>
                         </div>
@@ -272,8 +285,74 @@
 </div>
 <!-- portfolio details 3 portfolio-->
 
+
+<!-- work area start -->
+<div class="tp-work-area pt-120 pb-145 tp-panel-pin-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="tp-work-title-box tp-panel-pin">
+                    <span class="tp-section-subtitle pre mb-20">HOW WE MANUFACTURE</span>
+                    <h2 class="tp-section-title">OUR MANUFACTURING PROCESS</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="tp-work-wrapper">
+                    <div class="tp-work-item tp-panel-pin mb-15">
+                        <div class="tp-work-number p-relative">
+                            <span></span>
+                            <i>01</i>
+                        </div>
+                        <div class="tp-work-content">
+                            <h4 class="tp-work-title">RAW MATERIAL SELECTION</h4>
+                            <p>Premium-grade brass is carefully sourced and inspected to ensure consistency, strength,
+                                and long-term performance.</p>
+                        </div>
+                    </div>
+                    <div class="tp-work-item tp-panel-pin mb-15">
+                        <div class="tp-work-number p-relative">
+                            <span></span>
+                            <i>02</i>
+                        </div>
+                        <div class="tp-work-content">
+                            <h4 class="tp-work-title">PRECISION MANUFACTURING</h4>
+                            <p>Advanced machining and engineering processes deliver accuracy, durability, and flawless
+                                functionality.</p>
+                        </div>
+                    </div>
+                    <div class="tp-work-item tp-panel-pin mb-15">
+                        <div class="tp-work-number p-relative">
+                            <span></span>
+                            <i>03</i>
+                        </div>
+                        <div class="tp-work-content">
+                            <h4 class="tp-work-title">SURFACE FINISHING</h4>
+                            <p>Each product undergoes polishing, plating, and finishing treatments to achieve a premium
+                                appearance and lasting protection.</p>
+                        </div>
+                    </div>
+                    <div class="tp-work-item tp-panel-pin mb-15">
+                        <div class="tp-work-number p-relative">
+                            <span></span>
+                            <i>04</i>
+                        </div>
+                        <div class="tp-work-content">
+                            <h4 class="tp-work-title">QUALITY ASSURANCE</h4>
+                            <p>Rigorous inspections and testing ensure every product meets our standards before reaching
+                                customers worldwide.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- work area end -->
+
+
+
 <!-- service solution area start -->
-<section class="tp-service-4-solution-area pt-135 pb-140">
+<section class="tp-service-4-solution-area pb-140">
     <div class="container container-1320">
         <div class="row">
             <!-- <div class="col-lg-5">
@@ -283,8 +362,7 @@
             </div> -->
             <div class="col-lg-7">
                 <div class="tp-service-4-solution-heading pb-100 tp_fade_anim">
-                    <h3 class="tp-service-4-solution-title">From branding to funding, we <br> provide the tools &
-                        strategies <br> startups need to succeed in a <br> competitive market.</h3>
+                    <h4 class="tp-section-title">The Foundations Of Every Product We Create.</h4>
                 </div>
             </div>
         </div>
@@ -304,9 +382,8 @@
                                 </div>
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
-                                            href="service-details-light.html">Branding Design</a></h4>
-                                    <p>It's the core of your company's identity. <br>
-                                        It guides all business.</p>
+                                            href="service-details-light.html">Premium Quality</a></h4>
+                                    <p>Every product is manufactured using carefully selected materials and rigorous quality control processes to ensure lasting performance.</p>
                                 </div>
                             </div>
                         </div>
@@ -322,9 +399,8 @@
                                 </div>
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
-                                            href="service-details-light.html">UI/UX Design</a></h4>
-                                    <p>It's the core of your company's identity. <br>
-                                        It guides all business.</p>
+                                            href="service-details-light.html">Advanced Manufacturing</a></h4>
+                                    <p>Modern machinery and precision engineering enable us to deliver consistent quality, accuracy, and reliability across every product.</p>
                                 </div>
                             </div>
                         </div>
@@ -340,8 +416,8 @@
                                 </div>
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
-                                            href="service-details-light.html">Web Development</a></h4>
-                                    <p>It's the core of your company's identity. <br> It guides all business.</p>
+                                            href="service-details-light.html">Global Trust</a></h4>
+                                    <p>For decades, architects, builders, distributors, and international partners have trusted Madhuram for dependable hardware solutions.</p>
                                 </div>
                             </div>
                         </div>

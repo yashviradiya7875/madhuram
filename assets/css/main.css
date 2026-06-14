@@ -407,6 +407,7 @@ li,
   --tp-border-2: #e7e7e7;
   --md-theme-bg: #0b2c7ecf;
   --md-theme-gradient: linear-gradient(90deg, #0b2c7ecf 0%, rgba(169, 186, 228, 0.384) 100%);
+  --md-theme-gradient-solid: linear-gradient(90deg, #0b2c7e 0%, rgb(169, 186, 228) 100%);
   --md-theme-gradient-main: linear-gradient(0deg, #ffffff 0%, #0b2c7ecf 100%);
   --md-theme-gradient-inverse: linear-gradient(0deg, #0b2c7ecf 0%, #ffffff 100%);
 
@@ -3893,7 +3894,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .tp-section-subtitle-clash.color-red {
-  color: var(--tp-common-red);
+  color: var(--md-theme-bg);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px),
@@ -4037,7 +4038,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .tp-section-title {
   font-size: 80px;
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1;
   letter-spacing: -0.08em;
   text-transform: uppercase;
@@ -4268,11 +4269,11 @@ only screen and (min-width: 1200px) and (max-width: 1399px) {
 
 .tp-section-title-grotesk {
   font-size: 60px;
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1;
   letter-spacing: -0.03em;
-  color: var(--tp-common-black);
-  font-family: var(--tp-ff-grotesk);
+  color: var(--md-theme-bg);
+  font-family: var(--tp-ff-onest);
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -4373,8 +4374,8 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   line-height: 0.79;
   letter-spacing: -0.03em;
   text-transform: uppercase;
-  color: var(--tp-common-red);
-  font-family: var(--tp-ff-clash-bold);
+    color: var(--md-theme-bg);
+  font-family: var(--tp-ff-onest);
 }
 
 @media only screen and (min-width: 1801px) and (max-width: 1850px),
@@ -6538,7 +6539,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  border-left: 1px solid rgba(77, 61, 48, 0.2);
+  /* border-left: 1px solid rgba(77, 61, 48, 0.2); */
 }
 
 .tp-header-shop-cart a,
@@ -17854,7 +17855,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .tp-about-text p {
-  font-weight: 600;
+  font-weight: 100;
   font-size: 50px;
   line-height: 1.2;
   margin-right: 60px;
@@ -19037,7 +19038,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .ar-about-exp-box {
   margin-left: -30px;
-  padding: 30px;
+  padding: 10px;
   background-position: bottom;
   background-repeat: no-repeat;
   display: inline-block;
@@ -19059,16 +19060,16 @@ only screen and (min-width: 768px) and (max-width: 991px),
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #163684;
-  font-family: var(--tp-ff-clash-medium);
+  font-family: var(--tp-ff-onest);
 }
 
 .ar-about-exp-box h4 {
-  font-size: 160px;
+  font-size: 90px;
   line-height: 0.69;
   margin-bottom: 0;
   text-transform: uppercase;
   color: #163684;
-  font-family: var(--tp-ff-clash-semibold);
+  font-family: var(--tp-ff-onest);
 }
 
 .ar-about-us-4-hero-ptb {
@@ -19109,7 +19110,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 .ar-about-us-4-title {
   color: #111013;
   font-size: 100px;
-  font-weight: 800;
+  font-weight: 100;
   line-height: 1;
   margin-bottom: 50px;
   letter-spacing: -4px;
@@ -21523,7 +21524,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 .dgm-service-content-left.black-text .dgm-service-title-sm {
-  color: #111013;
+  color: var(--md-theme-bg);
   transition: none;
 }
 
@@ -21609,12 +21610,12 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 .dgm-service-title-sm {
-  font-weight: 700;
+  font-weight: 100;
   font-size: 30px;
   line-height: 1.07;
   letter-spacing: -0.02em;
   color: var(--tp-common-white);
-  font-family: var(--tp-ff-grotesk);
+  font-family: var(--tp-ff-onest);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -23790,7 +23791,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .tp-service-4-solution-title {
   font-size: 50px;
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1;
   color: #030303;
   letter-spacing: -1px;
@@ -23850,7 +23851,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .tp-service-4-solution-item-title {
   font-size: 34px;
-  font-weight: 700;
+  font-weight: 100;
   color: #030303;
   margin-bottom: 16px;
   letter-spacing: -0.34px;
@@ -24138,7 +24139,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   width: 220px;
   display: grid;
   place-content: center;
-  background-color: var(--tp-common-green-regular);
+  background-color: var(--md-theme-bg);
 }
 
 @media (max-width: 767px) {
@@ -24175,13 +24176,13 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .tp-service-4-process-video.service-5-pos .dgm-testimonial-playbtn:hover span {
-  color: #111013;
+  color: #ffffff;
 }
 
 .tp-service-4-process-video.service-5-pos .dgm-testimonial-playbtn span {
   font-size: 18px;
   font-weight: 500;
-  color: #111013;
+  color: #ffffff;
   letter-spacing: -0.36px;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease-in-out;
@@ -25965,7 +25966,7 @@ only screen and (min-width: 1200px) and (max-width: 1399px),
   line-height: 1;
   margin-right: 25px;
   letter-spacing: -0.02em;
-  color: var(--tp-common-cream);
+  color: var(--md-theme-bg);
   font-family: var(--tp-ff-clash-medium);
 }
 
@@ -25979,8 +25980,8 @@ only screen and (min-width: 1200px) and (max-width: 1399px),
   line-height: 0.9;
   letter-spacing: -0.02em;
   text-transform: uppercase;
-  color: var(--tp-common-cream);
-  font-family: var(--tp-ff-clash-semibold);
+  color: black;
+  font-family: var(--tp-ff-onest);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -28241,7 +28242,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   border-radius: 50%;
   display: inline-block;
   transform: rotate(30deg);
-  background-color: var(--tp-common-red-3);
+  background-color: var(--md-theme-bg);
 }
 
 .tp-work-number i {
@@ -28257,7 +28258,8 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .tp-work-title {
-  font-weight: 700;
+  font-family: var(--tp-ff-onest);
+  font-weight: 100;
   font-size: 30px;
   line-height: 1.2;
   letter-spacing: -0.04em;
@@ -28935,7 +28937,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   transform: translateY(-50%);
   display: inline-block;
   backdrop-filter: blur(14px);
-  color: var(--tp-common-black);
+  color: #ffffff;
   background-color: var(--tp-common-white);
   animation: animate-pulse 3s linear infinite;
 }
@@ -31350,7 +31352,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 (max-width: 767px) {
   .tp-video-thumb {
     width: 100%;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
   }
 }
 
@@ -33364,7 +33366,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .ar-step-content span {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: rgba(255, 255, 255, 0.6);
@@ -40325,7 +40327,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   display: inline-block;
   letter-spacing: -0.02em;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--tp-text-body);
 }
 
 .tp-pd-3-title {
@@ -44393,7 +44395,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
   height: 100%;
   opacity: 1;
   z-index: 1;
-  background-color: #000;
+  background-color: var(--md-theme-bg);
   transition: opacity 0.2s ease;
 }
 
@@ -44420,11 +44422,12 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .tp-pd-5-hero-title {
   font-size: 80px;
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1;
   margin-bottom: 24px;
   letter-spacing: -4px;
   color: var(--tp-common-white);
+  font-family: var(--tp-ff-onest);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -44483,10 +44486,11 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .tp-pd-5-hero-info-item-title {
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 100;
   line-height: 1;
   letter-spacing: -0.9px;
-  color: var(--tp-common-black);
+  color: var(--md-theme-bg);
+  font-family: var(--tp-ff-onest);
 }
 
 .tp-pd-5-hero-info-item-title span {
@@ -45007,7 +45011,6 @@ only screen and (min-width: 768px) and (max-width: 991px),
   line-height: 1;
   color: #4d3d30;
   margin-bottom: 40px;
-  letter-spacing: -0.04em;
   font-family: var(--tp-ff-onest);
 }
 
@@ -53453,7 +53456,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .agntix-dark .tp-about-funcact-item p {
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--md-theme-bg);
 }
 
 .agntix-dark .tp-service-item {
@@ -53515,12 +53518,11 @@ only screen and (min-width: 768px) and (max-width: 991px),
 
 .agntix-dark .tp-section-title {
   font-family: var(--tp-ff-onest);
-  color: var(--tp-common-white);
+  color: var(--md-theme-bg);
 }
 
 .agntix-dark .tp-work-item {
-  border-color: #0E0F11;
-  background-color: #1A1B1E;
+  background: var(--md-theme-gradient-solid);
 }
 
 .agntix-dark .tp-work-title {
@@ -53591,7 +53593,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .agntix-dark .tp-section-title-grotesk {
-  color: var(--tp-common-white);
+  /* color: var(--tp-common-white); */
 }
 
 .agntix-dark .dgm-about-content p {
@@ -55157,12 +55159,12 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .agntix-dark .tp-service-4-process-list p {
-  color: var(--tp-common-white);
+  color: rgba(000, 000, 000, 0.7);
 }
 
 .agntix-dark .tp-service-4-process-list span {
-  color: var(--tp-common-white);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--md-theme-bg);
+  border: 1px solid rgb(57 84 150);
 }
 
 .agntix-dark .tp-service-4-process-list:not(:last-child) span::before {
@@ -55170,7 +55172,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
 }
 
 .agntix-dark .tp-service-4-process-wrapper p {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(000, 000, 000, 0.7);
 }
 
 .agntix-dark .tp-service-5-text p {
@@ -60182,7 +60184,7 @@ div.demo img {
 /*----------------------------------------*/
 .tp-section-title {
   font-size: 80px;
-  font-weight: 700;
+  font-weight: 100;
   letter-spacing: -0.01em;
   text-transform: uppercase;
   word-spacing: 8px;

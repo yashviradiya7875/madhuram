@@ -483,9 +483,10 @@
 	});
 
 
-	// 24. video-hover //
+	// 24. video-hover (apply on all viewports)
 	let vd = gsap.matchMedia();
-	vd.add("(min-width: 1199px)", () => {
+	// Apply the video scroll/pin effect for all screen sizes so mobile matches desktop
+	vd.add("(min-width: 0px)", () => {
 		if ($('.tp-video-area').length) {
 			const tl = gsap.timeline({
 				scrollTrigger: {
