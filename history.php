@@ -76,7 +76,7 @@
 <div class="tp-service-4-padding-area">
 
     <!-- service area end -->
-    <div class="dgm-service-area dgm-service-radius pt-120 pb-120 z-index-1">
+    <div class="dgm-service-area dgm-service-radius pb-120 z-index-1">
         <div class="container container-1230">
             <div class="row">
                 <div class="col-xl-7">
