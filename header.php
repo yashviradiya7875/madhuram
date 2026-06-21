@@ -67,8 +67,8 @@
             <div class="tp-offcanvas-top d-flex align-items-center justify-content-between">
                 <div class="tp-offcanvas-logo">
                     <a href="index.html">
-                        <img class="logo-1" data-width="200" src="assets/images/logo-black.svg" alt="">
-                        <img class="logo-2" data-width="200" src="assets/images/logo-black.svg" alt="">
+                        <img class="logo-1" data-width="220" src="assets/images/logo-black.svg" alt="">
+                        <img class="logo-2" data-width="220" src="assets/images/logo-black.svg" alt="">
                     </a>
                 </div>
                 <div class="tp-offcanvas-close">
@@ -180,15 +180,15 @@
     <header>
 
         <!-- header area start -->
-        <div class="tp-header-shop-area header-transparent pt-10">
+        <div class="tp-header-shop-area header-transparent p-20">
             <div class="container-fluid">
                 <div id="header-sticky" class="tp-header-shop-wrap shop-white-header tp-header-blur sticky-white-bg">
                     <div class="row align-items-center">
                         <div class="col-xxl-2 col-xl-2 col-lg-6 col-md-6 col-6">
                             <div class="tp-header-shop-logo text-xl-center">
                                 <a href="/">
-                                    <img class="logo-1" data-width="200" src="assets/images/logo.png" alt="">
-                                    <img class="logo-2" data-width="200" src="assets/images/logo.png" alt="">
+                                    <img class="logo-1" data-width="220" src="assets/images/logo.png" alt="">
+                                    <img class="logo-2" data-width="220" src="assets/images/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -214,11 +214,11 @@
                             </div>
                         </div>
                         <div class="col-xxl-6 col-xl-7 d-none d-xl-block">
-                            <div class="tp-header-shop-menu tp-header-dropdown dropdown-white-bg">
+                            <div class="tp-header-shop-menu tp-header-dropdown dropdown-white-bg ">
                                 <nav class="tp-mobile-menu-active">
                                     <ul>
-                                        <li class="has-dropdown">
-                                            <a href="/">Home</a>
+                                        <li class="has-dropdown ">
+                                            <a class="active" href="/">Home</a>
                                            
                                         </li>
                                         <li class="has-dropdown">
@@ -245,6 +245,9 @@
                                                 <li><a href="products.php">BATH FITTING</a></li>
                                                
                                             </ul>
+                                        </li>
+                                        <li class="has-dropdown">
+                                            <a href="download.php">Download</a>
                                         </li>
                                         <li class="has-dropdown">
                                             <a href="contact.php">Contact</a>

@@ -1,76 +1,53 @@
 <?php include 'header.php'; ?>
 
 <!-- tp-hero-shop-area start -->
-<div class="tp-hero-shop-area pt-120 p-relative fix">
-    <h1 class="tp-hero-shop-title tp-char-animation">Precision</h1>
-    <div class="container container-1830">
-        <div class="tp-hero-shop-slider-main">
-            <div class="tp-hero-shop-slider-wrap slider-for-1">
-                <div class="tp-hero-shop-slider-item">
-                    <div class="row align-items-end">
-                        <div class="offset-xl-1 col-xl-4">
-                            <div class="tp-hero-shop-slider-content">
-                                <h4 class="tp-hero-shop-slider-title">Elevate every touch
-                                </h4>
-                                <div class="tp-hero-shop-btn">
-                                    <a class="tp-btn-white-border coffee-bg" href="products.php">Explore More</a>
-                                </div>
+<div class="tp-hero-shop-area p-relative fix">
+    <img src="./assets/images/home/Product.png" alt="">
+    <img class="tp-hero-shop-shape" src="./assets/images/home/shape-1.png" alt="">
+    <div class="tp-hero-shop-thumb">
+        <div class="container">
+            <div class="tp-hero-shop-content">
+                <h1 class="tp-hero-tagline">Where design <br> meets the <br> flow of <br> perfection</h1>
+                <p class="tp-hero-shop-content-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet totam
+                    praesentium blanditiis cupiditate
+                    esse quasi tempore molestiae ut, in consequatur impedit consequuntur veniam doloribus expedita quae
+                    maxime atque magni. Corrupti!</p>
+
+                <!-- From Uiverse.io by dexter-st -->
+                <div class="btn-wrapper">
+                    <button class="btn">
+                        <img class="btn-svg" src="./assets/images/home/arrow-sm-right-svgrepo-com.svg" alt="btn" />
+                        <div class="txt-wrapper">
+                            <div class="txt-1">
+                                <span class="btn-letter">E</span>
+                                <span class="btn-letter">x</span>
+                                <span class="btn-letter">p</span>
+                                <span class="btn-letter">o</span>
+                                <span class="btn-letter">r</span>
+                                <span class="btn-letter">e</span>
+                                <span> </span>
+                                <span class="btn-letter">m</span>
+                                <span class="btn-letter">o</span>
+                                <span class="btn-letter">r</span>
+                                <span class="btn-letter">e</span>
+                            </div>
+                            <div class="txt-2">
+                                <span class="btn-letter">E</span>
+                                <span class="btn-letter">x</span>
+                                <span class="btn-letter">p</span>
+                                <span class="btn-letter">o</span>
+                                <span class="btn-letter">r</span>
+                                <span class="btn-letter">e</span>
+                                <span> </span>
+                                <span class="btn-letter">m</span>
+                                <span class="btn-letter">o</span>
+                                <span class="btn-letter">r</span>
+                                <span class="btn-letter">e</span>
                             </div>
                         </div>
-                        <div class="col-xl-5">
-                            <div class="tp-hero-shop-slider-thumb">
-                                <img src="assets/images/home/slider-product-1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
+                    </button>
                 </div>
-                <div class="tp-hero-shop-slider-item">
-                    <div class="row align-items-end">
-                        <div class="offset-xl-1 col-xl-4">
-                            <div class="tp-hero-shop-slider-content">
-                                <h4 class="tp-hero-shop-slider-title">Precision in motion</h4>
-                                <div class="tp-hero-shop-btn">
-                                    <a class="tp-btn-white-border coffee-bg" href="products.php">Explore More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5">
-                            <div class="tp-hero-shop-slider-thumb">
-                                <img src="assets/images/home/slider-product-2.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-hero-shop-slider-item">
-                    <div class="row align-items-end">
-                        <div class="offset-xl-1 col-xl-4">
-                            <div class="tp-hero-shop-slider-content">
-                                <h4 class="tp-hero-shop-slider-title">Experience true craft</h4>
-                                <div class="tp-hero-shop-btn">
-                                    <a class="tp-btn-white-border coffee-bg" href="products.php">Explore More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5">
-                            <div class="tp-hero-shop-slider-thumb">
-                                <img src="assets/images/home/slider-product-3.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="tp-hero-shop-slider-nav-wrap">
-                <div class="tp-hero-shop-slider-nav slider-nav-1">
-                    <div class="tp-hero-shop-slider-nav-thumb">
-                        <img src="assets/images/home/slider-product-1.png" alt="">
-                    </div>
-                    <div class="tp-hero-shop-slider-nav-thumb">
-                        <img src="assets/images/home/slider-product-2.png" alt="">
-                    </div>
-                    <div class="tp-hero-shop-slider-nav-thumb">
-                        <img src="assets/images/home/slider-product-3.png" alt="">
-                    </div>
-                </div>
+
             </div>
         </div>
     </div>
@@ -139,15 +116,14 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">Brass Hinges</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">Brass Hinges</a>
                                 </h4>
 
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-8">
-                        <div >
+                        <div>
                             <a class="cursor-hide" href="product.php">
                                 <div class="studio-project-thumb">
                                     <img src="assets/img/home-06/project/project-2.jpg" alt="">
@@ -172,8 +148,7 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">BRASS TOWER BOLT</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS TOWER BOLT</a>
                                 </h4>
                             </div>
                         </div>
@@ -204,8 +179,7 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">BRASS FITTINGS</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS FITTINGS</a>
                                 </h4>
                             </div>
                         </div>
@@ -236,8 +210,7 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">BRASS GLASS FITTINGS</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS GLASS FITTINGS</a>
                                 </h4>
                             </div>
                         </div>
@@ -268,8 +241,7 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">HANDLE & LOCKS</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">HANDLE & LOCKS</a>
                                 </h4>
                             </div>
                         </div>
@@ -300,8 +272,7 @@
                                 </i>
                             </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a
-                                        href="product.php">BATH FITTING</a>
+                                <h4 class="studio-project-title-sm"><a href="product.php">BATH FITTING</a>
                                 </h4>
                             </div>
                         </div>
@@ -420,96 +391,102 @@
 </div>
 <!-- tp-counter-area-end -->
 
-   <div class="tp-pd-5-hero-black-anim p-relative fix" data-bg-color="#ffffff">
-                    <div class="tp-pd-5-hero-black-overlay"></div>
-                    <!-- portfolio details app hero -->
-                    <div class="tp-pd-5-hero-ptb pt-200 pb-200 z-index-2">
-                        <div class="container container-1230">
-                            <div class="tp-pd-5-hero-top pb-120">
-                                <div class="row justify-content-center">
-                                    <div class="col-lg-8">
-                                        <div class="tp-pd-5-hero-heading text-center tp_fade_anim" data-delay=".3">
-                                            <h3 class="tp-pd-5-hero-title">Premium Door Handles</h3>
-                                            <p>
-                                               Crafted with precision and designed for elegance, our premium door handles combine durability, functionality, and timeless aesthetics for modern architectural spaces.
-                                            </p>
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            <div class="row justify-content-center">
-                                <div class="col-lg-10">
-                                    <div class="tp-pd-5-hero-thumb text-center tp_fade_anim" data-delay=".7" data-fade-from="top" data-ease="bounce">
-                                        <img data-speed=".9" src="assets/assets-temp/freepik_img1-img3-img2-these-thre_2858336514.png" width="60%" alt="">
-                                    </div>
-                                </div>
-                            </div>
+<div class="tp-pd-5-hero-black-anim p-relative fix" data-bg-color="#ffffff">
+    <div class="tp-pd-5-hero-black-overlay"></div>
+    <!-- portfolio details app hero -->
+    <div class="tp-pd-5-hero-ptb pt-200 pb-200 z-index-2">
+        <div class="container container-1230">
+            <div class="tp-pd-5-hero-top pb-120">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="tp-pd-5-hero-heading text-center tp_fade_anim" data-delay=".3">
+                            <h3 class="tp-pd-5-hero-title">Premium Door Handles</h3>
+                            <p>
+                                Crafted with precision and designed for elegance, our premium door handles combine
+                                durability, functionality, and timeless aesthetics for modern architectural spaces.
+                            </p>
                         </div>
                     </div>
-                    <!-- portfolio details app hero -->
 
-                    <!-- portfolio details info start -->
-                    <div class="tp-pd-5-hero-info-ptb pb-40 z-index-2">
-                        <div class="container container-1230">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-9">
-                                    <div class="tp-pd-5-hero-info-wrap">
-                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".3">
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                                        <h3 class="tp-pd-5-hero-info-item-title"><span>01</span>Craftsmanship</h3>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-8">
-                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                                        <p>Every handle is meticulously manufactured using premium materials and advanced engineering for superior quality and performance.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".5">
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                                        <h3 class="tp-pd-5-hero-info-item-title"><span>02</span>Design Excellence</h3>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-8">
-                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                                        <p>
-                                                            A perfect balance of form and function, designed to complement contemporary, residential, and commercial interiors.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".7">
-                                            <div class="row">
-                                                <div class="col-lg-4">
-                                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                                        <h3 class="tp-pd-5-hero-info-item-title">
-                                                            <span>03</span>Lasting Performance
-                                                        </h3>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-8">
-                                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                                        <p>
-                                                           Built to withstand daily use while maintaining flawless operation, durability, and finish for years to come.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="tp-pd-5-hero-thumb text-center tp_fade_anim" data-delay=".7" data-fade-from="top"
+                        data-ease="bounce">
+                        <img data-speed=".9" src="assets/assets-temp/freepik_img1-img3-img2-these-thre_2858336514.png"
+                            width="60%" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- portfolio details app hero -->
+
+    <!-- portfolio details info start -->
+    <div class="tp-pd-5-hero-info-ptb pb-40 z-index-2">
+        <div class="container container-1230">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="tp-pd-5-hero-info-wrap">
+                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".3">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                        <h3 class="tp-pd-5-hero-info-item-title"><span>01</span>Craftsmanship</h3>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                        <p>Every handle is meticulously manufactured using premium materials and
+                                            advanced engineering for superior quality and performance.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".5">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                        <h3 class="tp-pd-5-hero-info-item-title"><span>02</span>Design Excellence</h3>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                        <p>
+                                            A perfect balance of form and function, designed to complement contemporary,
+                                            residential, and commercial interiors.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".7">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
+                                        <h3 class="tp-pd-5-hero-info-item-title">
+                                            <span>03</span>Lasting Performance
+                                        </h3>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="tp-pd-5-hero-info-item-content pb-20">
+                                        <p>
+                                            Built to withstand daily use while maintaining flawless operation,
+                                            durability, and finish for years to come.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- portfolio details info end -->
                 </div>
+            </div>
+        </div>
+    </div>
+    <!-- portfolio details info end -->
+</div>
 
 
 <!-- tp-responsive-area-start -->
@@ -583,11 +560,13 @@
             <div class="col-xl-4 col-lg-4 col-md-10 order-1 order-lg-0">
                 <div class="ar-about-content">
                     <h3 class="ar-about-title-sm tp_fade_anim" data-delay=".3">
-                       Browse products crafted for durability, precision, and timeless design.
+                        Browse products crafted for durability, precision, and timeless design.
                     </h3>
                     <div class="tp_fade_anim" data-delay=".4">
                         <p>
-                            Discover our complete collection of premium brass hardware, including hinges, tower bolts, handles, locks, glass fittings, and bath accessories. Designed to meet the needs of architects, builders, distributors, and modern spaces.
+                            Discover our complete collection of premium brass hardware, including hinges, tower bolts,
+                            handles, locks, glass fittings, and bath accessories. Designed to meet the needs of
+                            architects, builders, distributors, and modern spaces.
                         </p>
                     </div>
                     <div class="tp-shop-about-btn tp_fade_anim" data-delay=".3" data-fade-from="top" data-ease="bounce">
