@@ -2,8 +2,8 @@
 
 <!-- tp-hero-shop-area start -->
 <div class="tp-hero-shop-area p-relative fix">
-    <img src="./assets/images/home/Product.png" alt="">
     <img class="tp-hero-shop-shape" src="./assets/images/home/shape-1.png" alt="">
+    <img class="tp-hero-shop-product" src="./assets/images/home/Product.png" alt="">
     <div class="tp-hero-shop-thumb">
         <div class="container">
             <div class="tp-hero-shop-content">

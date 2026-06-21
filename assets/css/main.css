@@ -217,12 +217,12 @@ li,
   font-style: normal;
 }
 
-@font-face {
+/* @font-face {
   font-family: "Aeonik Regular";
-  src: url("../fonts/aonik/Aeonik-Regular.ttf");
-  /* font-weight: 300; */
+  src: url("../fonts/aonik/Aeonik-regular.ttf");
+  font-weight: 300;
   font-style: normal;
-}
+} */
 
 @font-face {
   font-family: "Platform";
@@ -6425,9 +6425,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   color: var(--tp-common-white);
 }
 
-.tp-header-shop-wrap.shop-white-header .tp-header-shop-action ul li {
-
-}
+.tp-header-shop-wrap.shop-white-header .tp-header-shop-action ul li {}
 
 .tp-header-shop-wrap.shop-white-header .tp-header-shop-cart button {
   color: var(--tp-common-white);
@@ -6480,12 +6478,12 @@ only screen and (min-width: 768px) and (max-width: 991px),
   background: transparent;
 }
 
-.tp-header-shop-wrap.header-sticky.shop-white-header {
-}
+.tp-header-shop-wrap.header-sticky.shop-white-header {}
 
 .tp-header-shop-wrap.header-sticky.shop-white-header .tp-header-shop-menu>nav>ul>li>a {
   color: #6b83ba;
 }
+
 .tp-header-shop-wrap.header-sticky.shop-white-header .tp-header-shop-menu>nav>ul>li>a.active {
   color: #ffffff;
 }
@@ -6552,7 +6550,7 @@ only screen and (min-width: 768px) and (max-width: 991px),
   font-family: var(--tp-ff-aeonik);
 }
 
-.tp-header-shop-menu>nav>ul>li>a.active{
+.tp-header-shop-menu>nav>ul>li>a.active {
   color: var(--tp-common-white);
 }
 
@@ -63885,23 +63883,23 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 }
 
-.tp-hero-shop-content p{
-  font-family: var(--tp-ff-aeonik--reguar);
+.tp-hero-shop-content p {
+  font-family: var(--tp-ff-aeonik);
   font-size: 14px;
   width: 30%;
   position: absolute;
-  top:60%;
+  top: 60%;
   left: 10%;
   color: var(--tp-common-white);
   line-height: 18px;
   font-weight: 100;
 }
 
-.tp-hero-shop-content a.tp-hero-shop-content-button{
-  font-family: var(--tp-ff-aeonik--reguar);
+.tp-hero-shop-content a.tp-hero-shop-content-button {
+  font-family: var(--tp-ff-aeonik);
   font-size: 14px;
   position: absolute;
-  top:75%;
+  top: 75%;
   left: 10%;
   color: var(--md-theme-bg);
   line-height: 18px;
@@ -63913,9 +63911,9 @@ only screen and (min-width: 576px) and (max-width: 767px),
   align-items: center;
   text-align: center;
 
-} 
+}
 
-a.tp-hero-shop-content-button i{
+a.tp-hero-shop-content-button i {
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -63923,7 +63921,7 @@ a.tp-hero-shop-content-button i{
 
 }
 
-/* From Uiverse.io by dexter-st */ 
+/* From Uiverse.io by dexter-st */
 .btn-wrapper {
   position: absolute;
   display: inline-block;
@@ -63954,7 +63952,8 @@ a.tp-hero-shop-content-button i{
     inset 0px 4px 4px rgba(255, 255, 255, 0.1),
     inset 0px 8px 8px rgba(255, 255, 255, 0.05),
     inset 0px 16px 16px rgba(255, 255, 255, 0.05),
-    /* drop */ 0px -1px 1px rgba(0, 0, 0, 0.02),
+    /* drop */
+    0px -1px 1px rgba(0, 0, 0, 0.02),
     0px -2px 2px rgba(0, 0, 0, 0.03),
     0px -4px 4px rgba(0, 0, 0, 0.05),
     0px -8px 8px rgba(0, 0, 0, 0.06),
@@ -63969,6 +63968,7 @@ a.tp-hero-shop-content-button i{
     border var(--transition),
     background-color var(--transition);
 }
+
 .btn::before {
   content: "";
   position: absolute;
@@ -63992,6 +63992,7 @@ a.tp-hero-shop-content-button i{
     -1px -1px 1px #0002,
     -2px -2px 2px #0001;
 }
+
 .btn::after {
   content: "";
   position: absolute;
@@ -64001,14 +64002,12 @@ a.tp-hero-shop-content-button i{
   height: 100%;
   border-radius: inherit;
   pointer-events: none;
-  background-image: linear-gradient(
-    0deg,
-    #fff,
-    hsl(var(--highlight-color-hue), 100%, 70%),
-    hsla(var(--highlight-color-hue), 100%, 70%, 50%),
-    8%,
-    transparent
-  );
+  background-image: linear-gradient(0deg,
+      #fff,
+      hsl(var(--highlight-color-hue), 100%, 70%),
+      hsla(var(--highlight-color-hue), 100%, 70%, 50%),
+      8%,
+      transparent);
   background-position: 0 0;
   opacity: 0;
   transition:
@@ -64047,6 +64046,7 @@ a.tp-hero-shop-content-button i{
     filter var(--transition),
     opacity var(--transition);
 }
+
 @keyframes flicker {
   50% {
     opacity: 0.3;
@@ -64060,37 +64060,46 @@ a.tp-hero-shop-content-button i{
   align-items: center;
   min-width: 6.4em;
 }
+
 .txt-1,
 .txt-2 {
   position: absolute;
   word-spacing: -1em;
 }
+
 .txt-1 {
   animation: appear-anim 1s ease-in-out forwards;
 }
+
 .txt-2 {
   opacity: 0;
 }
+
 @keyframes appear-anim {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
 }
+
 .btn:focus .txt-1 {
   animation: opacity-anim 0.3s ease-in-out forwards;
   animation-delay: 1s;
 }
+
 .btn:focus .txt-2 {
   animation: opacity-anim 0.3s ease-in-out reverse forwards;
   animation-delay: 1s;
 }
+
 @keyframes opacity-anim {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -64102,17 +64111,20 @@ a.tp-hero-shop-content-button i{
     letter-anim 1.2s ease-in-out infinite;
   animation-delay: 0s, 1s;
 }
+
 @keyframes focused-letter-anim {
+
   0%,
   100% {
     filter: blur(0px);
   }
+
   50% {
     transform: scale(2);
-    filter: blur(10px) brightness(150%)
-      drop-shadow(-36px 12px 12px hsl(var(--highlight-color-hue), 100%, 70%));
+    filter: blur(10px) brightness(150%) drop-shadow(-36px 12px 12px hsl(var(--highlight-color-hue), 100%, 70%));
   }
 }
+
 .btn:focus .btn-svg {
   animation-duration: 1.2s;
   animation-delay: 0.2s;
@@ -64127,6 +64139,7 @@ a.tp-hero-shop-content-button i{
     -1px -1px 1px #0002,
     -2px -2px 2px #0001;
 }
+
 .btn:focus::after {
   opacity: 0.6;
   mask-image: linear-gradient(0deg, #fff, transparent);
@@ -64138,50 +64151,62 @@ a.tp-hero-shop-content-button i{
 .btn:focus .btn-letter:nth-child(1) {
   animation-delay: 0s;
 }
+
 .btn-letter:nth-child(2),
 .btn:focus .btn-letter:nth-child(2) {
   animation-delay: 0.08s;
 }
+
 .btn-letter:nth-child(3),
 .btn:focus .btn-letter:nth-child(3) {
   animation-delay: 0.16s;
 }
+
 .btn-letter:nth-child(4),
 .btn:focus .btn-letter:nth-child(4) {
   animation-delay: 0.24s;
 }
+
 .btn-letter:nth-child(5),
 .btn:focus .btn-letter:nth-child(5) {
   animation-delay: 0.32s;
 }
+
 .btn-letter:nth-child(6),
 .btn:focus .btn-letter:nth-child(6) {
   animation-delay: 0.4s;
 }
+
 .btn-letter:nth-child(7),
 .btn:focus .btn-letter:nth-child(7) {
   animation-delay: 0.48s;
 }
+
 .btn-letter:nth-child(8),
 .btn:focus .btn-letter:nth-child(8) {
   animation-delay: 0.56s;
 }
+
 .btn-letter:nth-child(9),
 .btn:focus .btn-letter:nth-child(9) {
   animation-delay: 0.64s;
 }
+
 .btn-letter:nth-child(10),
 .btn:focus .btn-letter:nth-child(10) {
   animation-delay: 0.72s;
 }
+
 .btn-letter:nth-child(11),
 .btn:focus .btn-letter:nth-child(11) {
   animation-delay: 0.8s;
 }
+
 .btn-letter:nth-child(12),
 .btn:focus .btn-letter:nth-child(12) {
   animation-delay: 0.88s;
 }
+
 .btn-letter:nth-child(13),
 .btn:focus .btn-letter:nth-child(13) {
   animation-delay: 0.96s;
@@ -64192,6 +64217,7 @@ a.tp-hero-shop-content-button i{
   border: solid 1px hsla(var(--highlight-color-hue), 100%, 80%, 70%);
   background-color: hsla(var(--highlight-color-hue), 50%, 20%, 0.5);
 }
+
 .btn:active::before {
   box-shadow:
     0 -8px 12px -6px #fffa inset,
@@ -64201,11 +64227,13 @@ a.tp-hero-shop-content-button i{
     -1px -1px 1px #0002,
     -2px -2px 2px #0001;
 }
+
 .btn:active::after {
   opacity: 1;
   mask-image: linear-gradient(0deg, #fff, transparent);
   filter: brightness(200%);
 }
+
 .btn:active .btn-letter {
   text-shadow: 0 0 1px hsla(var(--highlight-color-hue), 100%, 90%, 90%);
   animation: none;
@@ -64233,13 +64261,22 @@ a.tp-hero-shop-content-button i{
 
 .btn:hover .btn-svg {
   fill: #fff;
-  filter: drop-shadow(0 0 3px hsl(var(--highlight-color-hue), 100%, 70%))
-    drop-shadow(0 -4px 6px #0009);
+  filter: drop-shadow(0 0 3px hsl(var(--highlight-color-hue), 100%, 70%)) drop-shadow(0 -4px 6px #0009);
   animation: none;
 }
 
-
-
-.p-20{
+.p-20 {
   padding: 20px;
+}
+
+.tp-hero-shop-shape {
+  position: absolute;
+  top: 180px;
+  right: 80px;
+  width: 40%;
+  opacity: 0.3;
+}
+
+.tp-hero-shop-product{
+  position:relative;
 }
