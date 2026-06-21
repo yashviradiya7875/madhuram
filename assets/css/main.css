@@ -220,7 +220,11 @@ li,
 /* @font-face {
   font-family: "Aeonik Regular";
   src: url("../fonts/aonik/Aeonik-regular.ttf");
+<<<<<<< HEAD
   font-weight: 300;
+=======
+  /* font-weight: 300; */
+>>>>>>> 49257763b2adae4dad0b3374286d08140d904c76
   font-style: normal;
 } */
 
@@ -64268,6 +64272,7 @@ a.tp-hero-shop-content-button i {
 .p-20 {
   padding: 20px;
 }
+<<<<<<< HEAD
 
 .tp-hero-shop-shape {
   position: absolute;
@@ -64280,3 +64285,5 @@ a.tp-hero-shop-content-button i {
 .tp-hero-shop-product{
   position:relative;
 }
+=======
+>>>>>>> 49257763b2adae4dad0b3374286d08140d904c76
