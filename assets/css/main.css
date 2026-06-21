@@ -212,7 +212,7 @@ li,
 
 @font-face {
   font-family: "Aeonik";
-  src: url("../fonts/aonik/Aeonik-regular.ttf");
+  src: url("../fonts/aonik/Aeonik-Regular.otf");
   font-weight: 200;
   font-style: normal;
 }
@@ -63887,14 +63887,15 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
 .tp-hero-shop-content p {
   font-family: var(--tp-ff-aeonik);
-  font-size: 14px;
-  width: 30%;
+  font-size: 10px;
+  width: 20%;
   position: absolute;
-  top: 60%;
+  top: 65%;
   left: 10%;
   color: var(--tp-common-white);
   line-height: 18px;
   font-weight: 100;
+  letter-spacing: 1px;
 }
 
 .tp-hero-shop-content a.tp-hero-shop-content-button {
@@ -63927,7 +63928,7 @@ a.tp-hero-shop-content-button i {
 .btn-wrapper {
   position: absolute;
   display: inline-block;
-  top: 75%;
+  top: 80%;
   left: 10%;
 }
 

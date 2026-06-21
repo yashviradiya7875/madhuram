@@ -8,10 +8,9 @@
         <div class="container">
             <div class="tp-hero-shop-content">
                 <h1 class="tp-hero-tagline">Where design <br> meets the <br> flow of <br> perfection</h1>
-                <p class="tp-hero-shop-content-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet totam
-                    praesentium blanditiis cupiditate
-                    esse quasi tempore molestiae ut, in consequatur impedit consequuntur veniam doloribus expedita quae
-                    maxime atque magni. Corrupti!</p>
+                <p class="tp-hero-shop-content-para">Madhuram was Established in 1995 in Jamnagar, widely recognized as
+                    Asia’s Brass Hub. Madhuram was founded by a visionary entrepreneur and his brothers, who
+                    successfully combined innovation with exceptional product quality from the very beginning.</p>
 
                 <!-- From Uiverse.io by dexter-st -->
                 <div class="btn-wrapper">
