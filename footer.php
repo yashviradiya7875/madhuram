@@ -3,7 +3,7 @@
 <footer>
 
     <!-- footer area start -->
-    <div class="tp-footer-area tp-footer-shop-style pt-60 pb-30" data-bg-color="#0b2c7ecf">
+    <div class="tp-footer-area tp-footer-shop-style pt-60 pb-30" data-bg-color="#2b3d68">
         <div class="container-fluid p-0">
             <div class="tp-footer-shop-top">
                 <div class="row gx-0">

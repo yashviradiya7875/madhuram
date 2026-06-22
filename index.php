@@ -55,7 +55,7 @@
 
 
 <!-- video area start -->
-<div class="tp-video-area mt-120 mb-200 fix">
+<!-- <div class="tp-video-area mt-120 mb-200 fix">
     <div class="container-fluid p-0">
         <div class="tp-video-thumb-wrap">
             <div class="tp-video-thumb d-none d-xl-block">
@@ -80,7 +80,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- video area end -->
 
 
@@ -92,7 +92,7 @@
                 <div class="col-xxl-8 col-xl-10">
                     <div class="studio-project-title-wrap">
                         <div class="studio-project-title-box pl-40">
-                            <h3 class="tp-section-title-clash mb-0 tp-text-revel-anim">OUR <br> COLLECTIONS
+                            <h3 class="tp-section-title-clash mb-0 tp-text-revel-anim">Our <br> Collections
                             </h3>
                         </div>
                     </div>
@@ -102,30 +102,100 @@
         <div class="studio-project-wrap">
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-4">
+                    <div class="col-xl-5">
                         <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>01</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </i>
-                            </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">Brass Hinges</a>
-                                </h4>
+                                <div class="studio-project-number">
+                                    <img src="assets/images/home/products/ICONS 2.png" alt="">
+                                    <div class="studio-project-content">
+                                        <h4 class="studio-project-title-sm"><a href="product.php">Brass<br> Hinges</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <p class="studio-project-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    Praesentium repudiandae adipisci asperiores recusandae consectetur.</p>
+                            </div>
+                        </div>
+                        <div class="product-section-svg">
+                            <img src="assets/images/home/products/ICONS.png" alt="">
+                            <!-- From Uiverse.io by Creatlydev -->
+                            <button href="#" class="button" style="--clr: #3b3d68">
+                                <span class="button__icon-wrapper">
+                                    <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg" width="10">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
 
-                            </div>
+                                    <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg button__icon-svg--copy">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+                                </span>
+                                Explore More
+                            </button>
+                        </div>
+
+                    </div>
+                    <div class="col-xl-7">
+                        <div>
+                            <a class="cursor-hide" href="javaScript:void(0)">
+                                <div class="studio-project-thumb">
+                                    <img src="assets/images/home/products/BATH FITTINGS.jpeg" alt="">
+                                </div>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-xl-8">
+
+                </div>
+            </div>
+            <div class="studio-project-item mb-80">
+                <div class="row">
+                    <div class="col-xl-5">
+                        <div class="studio-project-content-wrap d-flex align-items-start">
+                            <div class="studio-project-content">
+                                <div class="studio-project-number">
+                                    <img src="assets/images/home/products/ICONS 2.png" alt="">
+                                    <div class="studio-project-content">
+                                        <h4 class="studio-project-title-sm"><a href="product.php">Door <br> Lock</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <p class="studio-project-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    Praesentium repudiandae adipisci asperiores recusandae consectetur.</p>
+                            </div>
+                        </div>
+                        <div class="product-section-svg">
+                            <img src="assets/images/home/products/ICONS.png" alt="">
+                            <!-- From Uiverse.io by Creatlydev -->
+                            <button href="#" class="button" style="--clr: #2b3d68">
+                                <span class="button__icon-wrapper">
+                                    <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg" width="10">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+
+                                    <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg button__icon-svg--copy">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+                                </span>
+                                Explore More
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-xl-7">
                         <div>
-                            <a class="cursor-hide" href="product.php">
+                            <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-2.jpg" alt="">
+                                    <img src="assets/images/home/products/DOOR LOCK.jpeg" alt="">
                                 </div>
                             </a>
                         </div>
@@ -134,29 +204,48 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-4">
+                    <div class="col-xl-5">
                         <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>02</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </i>
-                            </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS TOWER BOLT</a>
-                                </h4>
+                                <div class="studio-project-number">
+                                    <img src="assets/images/home/products/ICONS 2.png" alt="">
+                                    <div class="studio-project-content">
+                                        <h4 class="studio-project-title-sm"><a href="product.php">Door <br> Stopper</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <p class="studio-project-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    Praesentium repudiandae adipisci asperiores recusandae consectetur.</p>
                             </div>
                         </div>
+                        <div class="product-section-svg">
+                            <img src="assets/images/home/products/ICONS.png" alt="">
+                            <!-- From Uiverse.io by Creatlydev -->
+                            <button href="#" class="button" style="--clr: #3b3d68">
+                                <span class="button__icon-wrapper">
+                                    <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg" width="10">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+
+                                    <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg button__icon-svg--copy">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+                                </span>
+                                Explore More
+                            </button>
+                        </div>
                     </div>
-                    <div class="col-xl-8">
+                    <div class="col-xl-7">
                         <div>
-                            <a class="cursor-hide" href="product.php">
+                            <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-3.jpg" alt="">
+                                    <img src="assets/images/home/products/DOOR STOPER.jpeg" alt="">
                                 </div>
                             </a>
                         </div>
@@ -165,29 +254,48 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-4">
+                    <div class="col-xl-5">
                         <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>03</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </i>
-                            </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS FITTINGS</a>
-                                </h4>
+                                <div class="studio-project-number">
+                                    <img src="assets/images/home/products/ICONS 2.png" alt="">
+                                    <div class="studio-project-content">
+                                        <h4 class="studio-project-title-sm"><a href="product.php">Handle<br>& Locks</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <p class="studio-project-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    Praesentium repudiandae adipisci asperiores recusandae consectetur.</p>
                             </div>
                         </div>
+                        <div class="product-section-svg">
+                            <img src="assets/images/home/products/ICONS.png" alt="">
+                            <!-- From Uiverse.io by Creatlydev -->
+                            <button href="#" class="button" style="--clr: #3b3d68">
+                                <span class="button__icon-wrapper">
+                                    <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg" width="10">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+
+                                    <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg button__icon-svg--copy">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
+                                    </svg>
+                                </span>
+                                Explore More
+                            </button>
+                        </div>
                     </div>
-                    <div class="col-xl-8">
+                    <div class="col-xl-7">
                         <div>
-                            <a class="cursor-hide" href="product.php">
+                            <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-4.jpg" alt="">
+                                    <img src="assets/images/home/products/HANDLE & LOCK.jpeg" alt="">
                                 </div>
                             </a>
                         </div>
@@ -196,91 +304,48 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-4">
+                    <div class="col-xl-5">
                         <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>04</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </i>
-                            </div>
                             <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">BRASS GLASS FITTINGS</a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-8">
-                        <div>
-                            <a class="cursor-hide" href="product.php">
-                                <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
+                                <div class="studio-project-number">
+                                    <img src="assets/images/home/products/ICONS 2.png" alt="">
+                                    <div class="studio-project-content">
+                                        <h4 class="studio-project-title-sm"><a href="product.php">Hinge</a>
+                                        </h4>
+                                    </div>
                                 </div>
-                            </a>
+                                <p class="studio-project-para">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                                    Praesentium repudiandae adipisci asperiores recusandae consectetur.</p>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="studio-project-item mb-80">
-                <div class="row">
-                    <div class="col-xl-4">
-                        <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>04</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
+                        <div class="product-section-svg">
+                            <img src="assets/images/home/products/ICONS.png" alt="">
+                            <!-- From Uiverse.io by Creatlydev -->
+                            <button href="#" class="button" style="--clr: #3b3d68">
+                                <span class="button__icon-wrapper">
+                                    <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg" width="10">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
                                     </svg>
-                                </i>
-                            </div>
-                            <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">HANDLE & LOCKS</a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-8">
-                        <div>
-                            <a class="cursor-hide" href="product.php">
-                                <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="studio-project-item mb-80">
-                <div class="row">
-                    <div class="col-xl-4">
-                        <div class="studio-project-content-wrap d-flex align-items-start">
-                            <div class="studio-project-number">
-                                <span>04</span>
-                                <i>
-                                    <svg width="202" height="9" viewBox="0 0 202 9" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M198 8L201.5 4.5L198 1M1 4H201V5H1V4Z" stroke="#000"
-                                            stroke-linecap="round" stroke-linejoin="round" />
+
+                                    <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                        class="button__icon-svg button__icon-svg--copy">
+                                        <path
+                                            d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                            fill="currentColor"></path>
                                     </svg>
-                                </i>
-                            </div>
-                            <div class="studio-project-content">
-                                <h4 class="studio-project-title-sm"><a href="product.php">BATH FITTING</a>
-                                </h4>
-                            </div>
+                                </span>
+                                Explore More
+                            </button>
                         </div>
                     </div>
-                    <div class="col-xl-8">
+                    <div class="col-xl-7">
                         <div>
-                            <a class="cursor-hide" href="product.php">
+                            <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
-                                    <img src="assets/img/home-06/project/project-1.jpg" alt="">
+                                    <img src="assets/images/home/products/HINGE.jpeg" alt="">
                                 </div>
                             </a>
                         </div>
@@ -301,17 +366,17 @@
             <div class="col-xl-3">
                 <div class="tp-shop-about-thumb">
                     <div class="img-1">
-                        <img data-speed="1.1" src="assets/img/shop-home/about/about-2.jpg" alt="">
+                        <img data-speed="1.1" src="assets/images/home/section2/130X150 02.jpeg" alt="">
                     </div>
                     <div class="img-2">
-                        <img data-speed="1.2" src="assets/img/shop-home/about/about-1.jpg" alt="">
+                        <img data-speed="1.2" src="assets/images/home/section2/189x251.jpeg" alt="">
                     </div>
                 </div>
             </div>
             <div class="col-xl-6">
                 <div class="tp-shop-about-middle">
                     <!-- <div class="tp-shop-about-circle-text text-center">
-                        <img src="assets/img/shop-home/about/circle-text.png" alt="">
+                        <img src="assets/img/shop-home/about/circle-text.jpeg" alt="">
                     </div> -->
                     <div class="tp-shop-about-content text-center">
                         <p>
@@ -319,22 +384,39 @@
                         </p>
                         <div class="tp-shop-about-btn tp_fade_anim" data-delay=".3" data-fade-from="top"
                             data-ease="bounce">
-                            <a class="tp-checkout-btn border-style" href="about.php">
-                                More About Us
-                                <span>
-                                    <svg width="21" height="10" viewBox="0 0 21 10" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <path
-                                            d="M20.4243 5.42524C20.6586 5.19093 20.6586 4.81103 20.4243 4.57671L16.6059 0.758336C16.3716 0.524021 15.9917 0.524021 15.7574 0.758336C15.523 0.992651 15.523 1.37255 15.7574 1.60686L19.1515 5.00098L15.7574 8.39509C15.523 8.6294 15.523 9.0093 15.7574 9.24362C15.9917 9.47793 16.3716 9.47793 16.6059 9.24362L20.4243 5.42524ZM0 5.00098V5.60098H20V5.00098V4.40098H0V5.00098Z"
-                                            fill="currentcolor" />
-                                    </svg>
-                                </span>
-                            </a>
+                            <!-- From Uiverse.io by dexter-st -->
+                            <div class="btn-wrapper">
+                                <button class="btn">
+                                    <img class="btn-svg" src="./assets/images/home/arrow-sm-right-svgrepo-com.svg"
+                                        alt="btn" />
+                                    <div class="txt-wrapper">
+                                        <div class="txt-1">
+                                            <span class="btn-letter">A</span>
+                                            <span class="btn-letter">b</span>
+                                            <span class="btn-letter">o</span>
+                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter">t</span>
+                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter">s</span>
+                                        </div>
+                                        <div class="txt-2">
+                                            <span class="btn-letter">A</span>
+                                            <span class="btn-letter">b</span>
+                                            <span class="btn-letter">o</span>
+                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter">t</span>
+                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter">s</span>
+                                        </div>
+                                    </div>
+                                </button>
+                            </div>
+
                         </div>
                     </div>
                     <div class="tp-shop-about-thumb">
                         <div class="img-3">
-                            <img data-speed=".9" src="assets/img/shop-home/about/about-3.jpg" alt="">
+                            <img data-speed=".9" src="assets/images/home/section2/149X200.jpeg" alt="">
                         </div>
                     </div>
                 </div>
@@ -342,13 +424,13 @@
             <div class="col-xl-3">
                 <div class="tp-shop-about-thumb text-end">
                     <div class="img-4 z-index-1">
-                        <img data-speed="1.1" src="assets/img/shop-home/about/about-4.jpg" alt="">
+                        <img data-speed="1.1" src="assets/images/home/section2/318X362.jpeg" alt="">
                     </div>
                     <div class="img-5">
-                        <img data-speed="1.2" src="assets/img/shop-home/about/about-5.jpg" alt="">
+                        <img data-speed="1.2" src="assets/images/home/section2/130X150.jpeg" alt="">
                     </div>
                     <div class="img-6">
-                        <img data-speed="1.1" src="assets/img/shop-home/about/about-6.jpg" alt="">
+                        <img data-speed="1.1" src="assets/images/home/section2/130X160.jpeg" alt="">
                     </div>
                 </div>
             </div>
@@ -360,7 +442,7 @@
 
 <!-- tp-counter-area-start -->
 <div class="about-features tp-counter-area tp-counter-top-meinus  z-index-1">
-    <div class="container container-1230 pt-110 pb-110">
+    <div class="container container-1430 pt-110 pb-110">
         <div class="row tp-counter-border">
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-start">
@@ -390,147 +472,7 @@
 </div>
 <!-- tp-counter-area-end -->
 
-<div class="tp-pd-5-hero-black-anim p-relative fix" data-bg-color="#ffffff">
-    <div class="tp-pd-5-hero-black-overlay"></div>
-    <!-- portfolio details app hero -->
-    <div class="tp-pd-5-hero-ptb pt-200 pb-200 z-index-2">
-        <div class="container container-1230">
-            <div class="tp-pd-5-hero-top pb-120">
-                <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="tp-pd-5-hero-heading text-center tp_fade_anim" data-delay=".3">
-                            <h3 class="tp-pd-5-hero-title">Premium Door Handles</h3>
-                            <p>
-                                Crafted with precision and designed for elegance, our premium door handles combine
-                                durability, functionality, and timeless aesthetics for modern architectural spaces.
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-10">
-                    <div class="tp-pd-5-hero-thumb text-center tp_fade_anim" data-delay=".7" data-fade-from="top"
-                        data-ease="bounce">
-                        <img data-speed=".9" src="assets/assets-temp/freepik_img1-img3-img2-these-thre_2858336514.png"
-                            width="60%" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- portfolio details app hero -->
-
-    <!-- portfolio details info start -->
-    <div class="tp-pd-5-hero-info-ptb pb-40 z-index-2">
-        <div class="container container-1230">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div class="tp-pd-5-hero-info-wrap">
-                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".3">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                        <h3 class="tp-pd-5-hero-info-item-title"><span>01</span>Craftsmanship</h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-8">
-                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                        <p>Every handle is meticulously manufactured using premium materials and
-                                            advanced engineering for superior quality and performance.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".5">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                        <h3 class="tp-pd-5-hero-info-item-title"><span>02</span>Design Excellence</h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-8">
-                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                        <p>
-                                            A perfect balance of form and function, designed to complement contemporary,
-                                            residential, and commercial interiors.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tp-pd-5-hero-info-item pb-60 tp_fade_anim" data-delay=".7">
-                            <div class="row">
-                                <div class="col-lg-4">
-                                    <div class="tp-pd-5-hero-info-item-heading pb-20">
-                                        <h3 class="tp-pd-5-hero-info-item-title">
-                                            <span>03</span>Lasting Performance
-                                        </h3>
-                                    </div>
-                                </div>
-                                <div class="col-lg-8">
-                                    <div class="tp-pd-5-hero-info-item-content pb-20">
-                                        <p>
-                                            Built to withstand daily use while maintaining flawless operation,
-                                            durability, and finish for years to come.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- portfolio details info end -->
-</div>
-
-
-<!-- tp-responsive-area-start -->
-<div class="tp-responsive-area  section-meinus">
-    <div class="container-fluid container-1620">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="tp-responsive-layout-wrap p-relative mb-40">
-                    <img class="tp-responsive-layout-bg" src="assets/img/res-layout/bg.png" alt="">
-                    <img class="tp-responsive-layout-shape" data-speed="1.1" src="assets/img/res-layout/shape.png"
-                        alt="">
-                    <img class="tp-responsive-layout-shape-2" data-speed="1.2" src="assets/img/res-layout/shape-2.png"
-                        alt="">
-                    <div class="tp-responsive-layout-content text-center p-relative">
-                        <span class="tp-responsive-layout-subtitle mb-20 tp-fade-anim" data-delay=".3">Responsive</span>
-                        <h2 class="tp-section-title tp-section-title-36 tp-section-title-gdn-4 mb-20 tp-fade-anim"
-                            data-delay=".5"><span>Fully responsive<br> layout for any  device</span></h2>
-                        <div class="tp-fade-anim" data-delay=".7">
-                            <p class="tp-responsive-layout-para">Deliver a perfect website experience with
-                                high-resolution <br> images and graphics.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="tp-responsive-layout-wrap p-relative mb-40 fix">
-                    <img class="tp-responsive-layout-bg-2" src="assets/img/res-layout/bg-2.png" alt="">
-                    <div class="tp-responsive-layout-content text-center">
-                        <span class="tp-responsive-layout-subtitle mb-20 tp-fade-anim" data-delay=".3">16+
-                            Variations</span>
-                        <h2 class="tp-section-title tp-section-title-36 tp-section-title-gdn-4 mb-20 tp-fade-anim"
-                            data-delay=".5"><span>Flexible header<br> and menu templates. </span></h2>
-                        <div class="tp-fade-anim" data-delay=".7">
-                            <p class="tp-responsive-layout-para">Choose and customize our collection of site headers and
-                                hamburger<br> menus to fit your website's needs.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- tp-responsive-area-end -->
-
-<div class="ar-about-area pt-120 pb-160">
+<div class="ar-about-area pb-120">
     <div class="container">
         <div class="ar-about-title-wrap mb-60">
             <div class="row align-items-end">
@@ -538,13 +480,13 @@
                     <div class="ar-about-title-box">
 
                         <h3 class="tp-section-title-clash-600 fs-60 fw-400 mb-0 pb-40 tp_fade_anim" data-delay=".4">
-                            EXPLORE OUR EXTENSIVE RANGE OF ARCHITECTURAL HARDWARE SOLUTIONS.
+                            Explore our extensive range of architectural hardware solutions.
                         </h3>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 d-none d-lg-block">
                     <div class="ar-about-top-img text-end">
-                        <img data-speed=".9" src="assets/img/home-08/about/about-1.jpg" alt="">
+                        <img data-speed=".9" src="assets/images/home/catalogue/cate-1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -552,7 +494,7 @@
         <div class="row align-items-end">
             <div class="col-xl-5 col-lg-5 col-md-7">
                 <div class="ar-about-thumb p-relative">
-                    <img data-speed=".8" src="assets/img/home-08/about/about-2.jpg" alt="">
+                    <img data-speed=".8" src="assets/images/home/catalogue/cate-2.jpg" alt="">
                     <img class="ar-about-shape" src="assets/img/home-08/about/about-shape.png" alt="">
                 </div>
             </div>
@@ -568,19 +510,25 @@
                             architects, builders, distributors, and modern spaces.
                         </p>
                     </div>
-                    <div class="tp-shop-about-btn tp_fade_anim" data-delay=".3" data-fade-from="top" data-ease="bounce">
-                        <a class="tp-checkout-btn border-style" href="about-us-dark.html">
-                            View Catalogue
-                            <span>
-                                <svg width="21" height="10" viewBox="0 0 21 10" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M20.4243 5.42524C20.6586 5.19093 20.6586 4.81103 20.4243 4.57671L16.6059 0.758336C16.3716 0.524021 15.9917 0.524021 15.7574 0.758336C15.523 0.992651 15.523 1.37255 15.7574 1.60686L19.1515 5.00098L15.7574 8.39509C15.523 8.6294 15.523 9.0093 15.7574 9.24362C15.9917 9.47793 16.3716 9.47793 16.6059 9.24362L20.4243 5.42524ZM0 5.00098V5.60098H20V5.00098V4.40098H0V5.00098Z"
-                                        fill="currentcolor" />
-                                </svg>
-                            </span>
-                        </a>
-                    </div>
+                    <!-- From Uiverse.io by Creatlydev -->
+                    <button href="#" class="button" style="--clr: #2b3d68">
+                        <span class="button__icon-wrapper">
+                            <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                class="button__icon-svg" width="10">
+                                <path
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                    fill="currentColor"></path>
+                            </svg>
+
+                            <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                class="button__icon-svg button__icon-svg--copy">
+                                <path
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </span>
+                        View Catalogue
+                    </button>
                 </div>
             </div>
             <div class="col-xl-3 col-lg-3 col-md-5 order-0 order-lg-0">
