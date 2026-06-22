@@ -64045,7 +64045,7 @@ a.tp-hero-shop-content-button i {
     -2px -2px 2px #0001;
 } */
 
-.btn::after {
+/* .btn::after {
   content: "";
   position: absolute;
   top: 0;
@@ -64065,7 +64065,7 @@ a.tp-hero-shop-content-button i {
   transition:
     opacity var(--transition),
     filter var(--transition);
-}
+} */
 
 .btn-letter {
   position: relative;
