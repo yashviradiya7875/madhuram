@@ -17,7 +17,7 @@
                 <div class="dgm-service-title-box service-4-heading z-index-1 mb-60">
                     <span class="tp-section-subtitle pre tp_fade_anim">OUR HISTORY</span>
                     <h4 class="tp-section-title-grotesk tp_fade_anim" data-delay=".5">
-                        A Legacy of Craftsmanship and Growth.
+                        A Legacy of <br> Craftsmanship and Growth.
 
 
                     </h4>
@@ -83,7 +83,7 @@
                     <div class="dgm-service-title-box service-4-heading z-index-1 mb-70">
                         <span class="tp-section-subtitle pre tp_fade_anim">OUR HISTORY</span>
                         <h4 class="tp-section-title-grotesk tp_fade_anim" data-delay=".5">
-                            Three Decades of Growth, Craftsmanship & Trust.
+                            Three decades of growth, <br> craftsmanship & trust.
                         </h4>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span class="">1995</span>
                                         <h4 class="dgm-service-title-sm "><a href="javaScript:void(0)">The
@@ -104,7 +104,7 @@
                                         </h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Madhuram Brass Industries was established, marking the start of a journey
@@ -119,14 +119,14 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>2000</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">Expanding Across
                                                 India</a></h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Within five years, Madhuram successfully expanded its presence and began
@@ -141,14 +141,14 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>2010</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">Industry
                                                 Recognition</a></h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Participated in the renowned Inside Outside exhibition in Kerala,
@@ -163,14 +163,14 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>2012</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">Product
                                                 Innovation</a></h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Introduced Smooth Washer Hinges, a product that quickly became one of
@@ -185,14 +185,14 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>2013</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">New Manufacturing
                                                 Capabilities</a></h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-5">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Expanded our product portfolio by entering steel hardware manufacturing,
@@ -207,19 +207,18 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>2016</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">Brass Mortise
                                                 Handles</a></h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Started manufacturing premium brass mortise handles, further strengthening
                                             our architectural hardware collection.</p>
-
                                     </div>
                                 </div>
                             </div>
@@ -229,19 +228,18 @@
                                 <img src="assets/img/home-03/service/service-bg.jpg" alt="">
                             </div>
                             <div class="row align-items-center">
-                                <div class="col-lg-5">
+                                <div class="col-lg-6">
                                     <div class="dgm-service-content-left black-text d-inline-flex align-items-center">
                                         <span>TODAY</span>
                                         <h4 class="dgm-service-title-sm"><a href="javaScript:void(0)">Looking Ahead</a>
                                         </h4>
                                     </div>
                                 </div>
-                                <div class="col-lg-7">
+                                <div class="col-lg-6">
                                     <div
                                         class="dgm-service-content-right black-text d-flex align-items-center justify-content-between">
                                         <p>Driven by innovation, craftsmanship, and customer trust, Madhuram continues
                                             to create premium hardware solutions for modern spaces worldwide.</p>
-
                                     </div>
                                 </div>
                             </div>

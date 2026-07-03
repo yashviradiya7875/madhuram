@@ -11,7 +11,7 @@
 
 
 <!-- hero area start -->
-<div class="ar-hero-area p-relative include-bg">
+<div class="ar-hero-area p-relative include-bg ">
     <div class="ar-about-us-4-shape">
         <img src="assets/img/portfolio/portfolio-shape.png" alt="">
     </div>
@@ -20,7 +20,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-12">
                     <div class="ar-hero-title-box tp_fade_anim" data-delay=".3">
-                        <h3 class="ar-about-us-4-title">Crafting <br> Excellence Since 1995.</h3>
+                        <h3 class="ar-about-us-4-title">Crafting <br> excellence since 1995.</h3>
                         <div class="ar-about-us-4-title-box d-flex justify-content-end">
                             <span class="tp-section-subtitle pre">About Us</span>
                             <div class="ar-about-us-4-icon">
@@ -32,8 +32,7 @@
                                 </svg>
                             </div>
                             <p>Three decades of expertise in crafting <br> premium brass architectural hardware <br> for
-                                modern
-                                and elegant spaces.</p>
+                                modern and elegant spaces.</p>
                         </div>
                     </div>
                 </div>
@@ -45,7 +44,7 @@
 
 
 <!-- about area start -->
-<div class="tp-about-area pb-140 tp-bounce-trigger">
+<div class="tp-about-area pb-120 tp-bounce-trigger pt-120">
     <div class="container">
         <div class="tp-about-box p-relative">
             <div class="tp-about-shape-1 tp-bounce d-none d-md-block">
@@ -123,8 +122,7 @@
                 <div class="ar-step-title-box">
                     <!-- <span class="tp-section-subtitle-satisfy text-white mb-20 tp_fade_anim" data-delay=".3">Architecture
                         process</span> -->
-                    <h3 class="tp-section-title-clash-600 text-white mb-0 tp_fade_anim" data-delay=".4">BUILT ON
-                        EXPERIENCE.</h3>
+                    <h3 class="tp-section-title-clash-600 text-white mb-0 tp_fade_anim" data-delay=".4">Built on experience.</h3>
                 </div>
             </div>
             <div class="col-xxl-6 col-xl-7">
@@ -145,7 +143,7 @@
                                     <span class="ar-step-number">01</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">30+ YEARS OF EXCELLENCE</h4>
+                                    <h4 class="ar-step-title-sm">30+ years of excellence</h4>
                                     <span>Delivering premium architectural hardware solutions since 1995 with a
                                         commitment to quality and innovation.</span>
                                 </div>
@@ -174,7 +172,7 @@
                                     <span class="ar-step-number">02</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">PRECISION MANUFACTURING</h4>
+                                    <h4 class="ar-step-title-sm">Precision manufacturing</h4>
                                     <span>Advanced production processes ensure consistency, durability, and flawless
                                         finishing across every product.</span>
                                 </div>
@@ -197,7 +195,7 @@
                                     <span class="ar-step-number">03</span>
                                 </div>
                                 <div class="ar-step-content">
-                                    <h4 class="ar-step-title-sm">GLOBAL REACH</h4>
+                                    <h4 class="ar-step-title-sm">Global reach</h4>
                                     <span>Trusted by distributors, builders, and partners across domestic and
                                         international markets.</span>
                                 </div>
@@ -246,7 +244,7 @@
                     <div class="col-lg-6">
                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 ml-40">
                             <span class="tp-section-subtitle pre mb-20">Precision In Every Detail</span>
-                            <h4 class="tp-pd-3-title">QUALITY</h4>
+                            <h4 class="tp-pd-3-title">Quality</h4>
                             <div class="tp-pd-3-overview-text">
                                 <p> At Madhuram Overseas, quality is more than a standard—it is the foundation of every
                                     product we manufacture. From raw material selection to final inspection, every stage
@@ -264,7 +262,7 @@
                     <div class="col-lg-6">
                         <div class="tp-pd-3-portfolio-content tp-pd-3-content-pin mt-20 mr-40">
                             <span class="tp-section-subtitle pre mb-20">Driving The Future Of Hardware</span>
-                            <h4 class="tp-pd-3-title">INNOVATION</h4>
+                            <h4 class="tp-pd-3-title">Innovation</h4>
                             <div class="tp-pd-3-overview-text">
                                 <p>Combining decades of expertise with modern manufacturing techniques, we continuously
                                     innovate to create hardware solutions that meet evolving architectural and design
@@ -293,7 +291,7 @@
             <div class="col-lg-6">
                 <div class="tp-work-title-box tp-panel-pin">
                     <span class="tp-section-subtitle pre mb-20">HOW WE MANUFACTURE</span>
-                    <h2 class="tp-section-title">OUR MANUFACTURING PROCESS</h2>
+                    <h2 class="tp-section-title">Our manufacturing process</h2>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -304,7 +302,7 @@
                             <i>01</i>
                         </div>
                         <div class="tp-work-content">
-                            <h4 class="tp-work-title">RAW MATERIAL SELECTION</h4>
+                            <h4 class="tp-work-title">Raw material selection</h4>
                             <p>Premium-grade brass is carefully sourced and inspected to ensure consistency, strength,
                                 and long-term performance.</p>
                         </div>
@@ -315,7 +313,7 @@
                             <i>02</i>
                         </div>
                         <div class="tp-work-content">
-                            <h4 class="tp-work-title">PRECISION MANUFACTURING</h4>
+                            <h4 class="tp-work-title">Precision manufacturing</h4>
                             <p>Advanced machining and engineering processes deliver accuracy, durability, and flawless
                                 functionality.</p>
                         </div>
@@ -326,7 +324,7 @@
                             <i>03</i>
                         </div>
                         <div class="tp-work-content">
-                            <h4 class="tp-work-title">SURFACE FINISHING</h4>
+                            <h4 class="tp-work-title">Surface finishing</h4>
                             <p>Each product undergoes polishing, plating, and finishing treatments to achieve a premium
                                 appearance and lasting protection.</p>
                         </div>
@@ -337,7 +335,7 @@
                             <i>04</i>
                         </div>
                         <div class="tp-work-content">
-                            <h4 class="tp-work-title">QUALITY ASSURANCE</h4>
+                            <h4 class="tp-work-title">Quality assurance</h4>
                             <p>Rigorous inspections and testing ensure every product meets our standards before reaching
                                 customers worldwide.</p>
                         </div>
@@ -362,7 +360,7 @@
             </div> -->
             <div class="col-lg-7">
                 <div class="tp-service-4-solution-heading pb-100 tp_fade_anim">
-                    <h4 class="tp-section-title">The Foundations Of Every Product We Create.</h4>
+                    <h4 class="tp-section-title">The foundations of every product we create.</h4>
                 </div>
             </div>
         </div>
@@ -383,7 +381,8 @@
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
                                             href="service-details-light.html">Premium Quality</a></h4>
-                                    <p>Every product is manufactured using carefully selected materials and rigorous quality control processes to ensure lasting performance.</p>
+                                    <p>Every product is manufactured using carefully selected materials and rigorous
+                                        quality control processes to ensure lasting performance.</p>
                                 </div>
                             </div>
                         </div>
@@ -400,7 +399,8 @@
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
                                             href="service-details-light.html">Advanced Manufacturing</a></h4>
-                                    <p>Modern machinery and precision engineering enable us to deliver consistent quality, accuracy, and reliability across every product.</p>
+                                    <p>Modern machinery and precision engineering enable us to deliver consistent
+                                        quality, accuracy, and reliability across every product.</p>
                                 </div>
                             </div>
                         </div>
@@ -417,7 +417,8 @@
                                 <div class="tp-service-4-solution-item-content">
                                     <h4 class="tp-service-4-solution-item-title"><a class="tp-line-black"
                                             href="service-details-light.html">Global Trust</a></h4>
-                                    <p>For decades, architects, builders, distributors, and international partners have trusted Madhuram for dependable hardware solutions.</p>
+                                    <p>For decades, architects, builders, distributors, and international partners have
+                                        trusted Madhuram for dependable hardware solutions.</p>
                                 </div>
                             </div>
                         </div>

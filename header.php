@@ -234,15 +234,15 @@
                                            
                                         </li>
                                         <li class="has-dropdown">
-                                            <a href="products.php">Products</a>
+                                            <a href="product.php">Products</a>
                                             <ul class="tp-submenu submenu">
-                                                <li><a href="products.php">BRASS HINGES</a></li>
-                                                <li><a href="products.php">BRASS TOWER BOLT</a></li>
-                                                <li><a href="products.php">BRASS FITTINGS</a></li>
-                                                <li><a href="products.php">BRASS GLASS FITTINGS</a></li>
-                                                <li><a href="products.php">STEEL & ALUMINUM</a></li>
-                                                <li><a href="products.php">HANDLE & LOCKS</a></li>
-                                                <li><a href="products.php">BATH FITTING</a></li>
+                                                <li><a href="product.php">BRASS HINGES</a></li>
+                                                <li><a href="product.php">BRASS TOWER BOLT</a></li>
+                                                <li><a href="product.php">BRASS FITTINGS</a></li>
+                                                <li><a href="product.php">BRASS GLASS FITTINGS</a></li>
+                                                <li><a href="product.php">STEEL & ALUMINUM</a></li>
+                                                <li><a href="product.php">HANDLE & LOCKS</a></li>
+                                                <li><a href="product.php">BATH FITTING</a></li>
                                                
                                             </ul>
                                         </li>

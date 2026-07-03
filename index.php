@@ -24,8 +24,8 @@
                                 <span class="btn-letter">o</span>
                                 <span class="btn-letter">r</span>
                                 <span class="btn-letter">e</span>
-                                <span> </span>
-                                <span class="btn-letter">m</span>
+                                <span class="btn-letter-space">&nbsp;</span>
+                                <span class="btn-letter">M</span>
                                 <span class="btn-letter">o</span>
                                 <span class="btn-letter">r</span>
                                 <span class="btn-letter">e</span>
@@ -37,8 +37,8 @@
                                 <span class="btn-letter">o</span>
                                 <span class="btn-letter">r</span>
                                 <span class="btn-letter">e</span>
-                                <span> </span>
-                                <span class="btn-letter">m</span>
+                                <span class="btn-letter-space">&nbsp;</span>
+                                <span class="btn-letter">M</span>
                                 <span class="btn-letter">o</span>
                                 <span class="btn-letter">r</span>
                                 <span class="btn-letter">e</span>
@@ -54,34 +54,6 @@
 <!-- tp-hero-shop-area start -->
 
 
-<!-- video area start -->
-<!-- <div class="tp-video-area mt-120 mb-200 fix">
-    <div class="container-fluid p-0">
-        <div class="tp-video-thumb-wrap">
-            <div class="tp-video-thumb d-none d-xl-block">
-                <img src="./assets/images/home/section2/madhuramoverseas(1).png" alt="">
-            </div>
-            <div class="tp-video-thumb mb-25">
-                <video loop="" muted="" autoplay="" playsinline="">
-                    <source src="https://html.aqlova.com/videos/liko/liko.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="tp-video-thumb d-none d-xl-block mb-25">
-                <img src="./assets/images/home/section2/madhuramoverseas(2).png" alt="">
-            </div>
-            <div class="tp-video-thumb d-none d-xl-block mb-25">
-                <img src="./assets/images/home/section2/madhuramoverseas(3).png" alt="">
-            </div>
-            <div class="tp-video-thumb d-none d-xl-block">
-                <img src="./assets/images/home/section2/madhuramoverseas(4).png" alt="">
-            </div>
-            <div class="tp-video-thumb d-none d-xl-block">
-                <img src="./assets/images/home/section2/madhuramoverseas(5).png" alt="">
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- video area end -->
 
 
 <!-- project area start -->
@@ -102,7 +74,7 @@
         <div class="studio-project-wrap">
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-sm-5 col-12">
                         <div class="studio-project-content-wrap d-flex align-items-start">
                             <div class="studio-project-content">
                                 <div class="studio-project-number">
@@ -118,7 +90,6 @@
                         </div>
                         <div class="product-section-svg">
                             <img src="assets/images/home/products/ICONS.png" alt="">
-                            <!-- From Uiverse.io by Creatlydev -->
                             <button href="#" class="button" style="--clr: #3b3d68">
                                 <span class="button__icon-wrapper">
                                     <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -140,7 +111,7 @@
                         </div>
 
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-7 col-sm-7 col-12">
                         <div>
                             <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
@@ -154,7 +125,7 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-sm-5 col-12">
                         <div class="studio-project-content-wrap d-flex align-items-start">
                             <div class="studio-project-content">
                                 <div class="studio-project-number">
@@ -170,7 +141,6 @@
                         </div>
                         <div class="product-section-svg">
                             <img src="assets/images/home/products/ICONS.png" alt="">
-                            <!-- From Uiverse.io by Creatlydev -->
                             <button href="#" class="button" style="--clr: #2b3d68">
                                 <span class="button__icon-wrapper">
                                     <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -191,7 +161,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-7 col-sm-7 col-12">
                         <div>
                             <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
@@ -204,7 +174,7 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-sm-5 col-12">
                         <div class="studio-project-content-wrap d-flex align-items-start">
                             <div class="studio-project-content">
                                 <div class="studio-project-number">
@@ -220,7 +190,6 @@
                         </div>
                         <div class="product-section-svg">
                             <img src="assets/images/home/products/ICONS.png" alt="">
-                            <!-- From Uiverse.io by Creatlydev -->
                             <button href="#" class="button" style="--clr: #3b3d68">
                                 <span class="button__icon-wrapper">
                                     <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -241,7 +210,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-7 col-sm-7 col-12">
                         <div>
                             <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
@@ -254,7 +223,7 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-sm-5 col-12">
                         <div class="studio-project-content-wrap d-flex align-items-start">
                             <div class="studio-project-content">
                                 <div class="studio-project-number">
@@ -270,7 +239,6 @@
                         </div>
                         <div class="product-section-svg">
                             <img src="assets/images/home/products/ICONS.png" alt="">
-                            <!-- From Uiverse.io by Creatlydev -->
                             <button href="#" class="button" style="--clr: #3b3d68">
                                 <span class="button__icon-wrapper">
                                     <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -291,7 +259,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-7 col-sm-7 col-12">
                         <div>
                             <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
@@ -304,7 +272,7 @@
             </div>
             <div class="studio-project-item mb-80">
                 <div class="row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-5 col-sm-5 col-12">
                         <div class="studio-project-content-wrap d-flex align-items-start">
                             <div class="studio-project-content">
                                 <div class="studio-project-number">
@@ -320,7 +288,6 @@
                         </div>
                         <div class="product-section-svg">
                             <img src="assets/images/home/products/ICONS.png" alt="">
-                            <!-- From Uiverse.io by Creatlydev -->
                             <button href="#" class="button" style="--clr: #3b3d68">
                                 <span class="button__icon-wrapper">
                                     <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
@@ -341,7 +308,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-xl-7">
+                    <div class="col-xl-7 col-sm-7 col-12">
                         <div>
                             <a class="cursor-hide" href="javaScript:void(0)">
                                 <div class="studio-project-thumb">
@@ -396,7 +363,8 @@
                                             <span class="btn-letter">o</span>
                                             <span class="btn-letter">u</span>
                                             <span class="btn-letter">t</span>
-                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter-space">&nbsp;</span>
+                                            <span class="btn-letter">U</span>
                                             <span class="btn-letter">s</span>
                                         </div>
                                         <div class="txt-2">
@@ -405,7 +373,8 @@
                                             <span class="btn-letter">o</span>
                                             <span class="btn-letter">u</span>
                                             <span class="btn-letter">t</span>
-                                            <span class="btn-letter">u</span>
+                                            <span class="btn-letter-space">&nbsp;</span>
+                                            <span class="btn-letter">U</span>
                                             <span class="btn-letter">s</span>
                                         </div>
                                     </div>
@@ -447,21 +416,24 @@
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-start">
                     <div class="tp-counter-item text-center mb-40">
-                        <h2 class="tp-counter-title mb-0">28+</h2>
+                        <h2 class="tp-counter-title mb-0"><span><i data-purecounter-duration="1"
+                                    data-purecounter-end="28" class="purecounter">0</i>+</span></h2>
                         <h6 class="tp-counter-subtitle">Years Experience</h6>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-item text-center mb-40">
-                    <h2 class="tp-counter-title mb-0">500+</h2>
+                    <h2 class="tp-counter-title mb-0"><span><i data-purecounter-duration="1" data-purecounter-end="500"
+                                class="purecounter">0</i>+</span></h2>
                     <h6 class="tp-counter-subtitle">Product Variants</h6>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="tp-counter-end">
                     <div class="tp-counter-item text-center mb-40">
-                        <h2 class="tp-counter-title mb-0">50+</h2>
+                        <h2 class="tp-counter-title mb-0"><span><i data-purecounter-duration="1"
+                                    data-purecounter-end="50" class="purecounter">0</i>+</span></h2>
                         <h6 class="tp-counter-subtitle">Countries Served</h6>
                     </div>
                 </div>
@@ -510,7 +482,6 @@
                             architects, builders, distributors, and modern spaces.
                         </p>
                     </div>
-                    <!-- From Uiverse.io by Creatlydev -->
                     <button href="#" class="button" style="--clr: #2b3d68">
                         <span class="button__icon-wrapper">
                             <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg"
